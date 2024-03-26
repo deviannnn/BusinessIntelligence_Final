@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Prediction</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container mt-3">
+        <form class="row" id="predictionForm">
+            <div class="col-3">
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="text" min="0" class="form-control" name="age" required>
+                </div>
+                <div class="form-group">
+                    <label for="sex">Sex:</label>
+                    <select class="form-control" name="sex">
+                        <option value="0">Female</option>
+                        <option value="1">Male</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="chest_pain_type">Chest Pain Type:</label>
+                    <select class="form-control" name="chest_pain_type">
+                        <option value="0">Asymptomatic</option>
+                        <option value="1">Atypical Angina</option>
+                        <option value="2">Non-Anginal Pain</option>
+                        <option value="3">Typical Angina</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="resting_blood_pressure">Resting Blood Pressure:</label>
+                    <input type="text" min="0" class="form-control" name="resting_blood_pressure" required>
+                </div>
+                <div class="form-group">
+                    <label for="cholesterol">Cholesterol:</label>
+                    <input type="text" min="0" class="form-control" name="cholesterol" required>
+                </div>
+                <div class="form-group">
+                    <label for="fasting_blood_sugar">Fasting Blood Sugar:</label>
+                    <select class="form-control" name="fasting_blood_sugar">
+                        <option value="0">Greater than 120mg/ml</option>
+                        <option value="1">Lower than 120mg/ml</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="form-group">
+                    <label for="resting_electrocardiogram">Resting Electrocardiogram:</label>
+                    <select class="form-control" name="resting_electrocardiogram">
+                        <option value="0">ST-T Wave Abnormality</option>
+                        <option value="1">Left Ventricular Hypertrophy</option>
+                        <option value="2">Normal</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="max_heart_rate_achieved">Max Heart Rate Achieved:</label>
+                    <input type="text" min="0" class="form-control" name="max_heart_rate_achieved" required>
+                </div>
+                <div class="form-group">
+                    <label for="exercise_induced_angina">Exercise Induced Angina:</label>
+                    <select class="form-control" name="exercise_induced_angina">
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="st_depression">ST Depression:</label>
+                    <input type="text" min="0" class="form-control" name="st_depression" required>
+                </div>
+                <div class="form-group">
+                    <label for="st_slope">ST Slope:</label>
+                    <select class="form-control" name="st_slope">
+                        <option value="0">Downsloping</option>
+                        <option value="1">Flat</option>
+                        <option value="2">Upsloping</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="num_major_vessels">Number of Major Vessels:</label>
+                    <select class="form-control" name="num_major_vessels">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="form-group">
+                    <label for="thalassemia">Thalassemia:</label>
+                    <select class="form-control" name="thalassemia">
+                        <option value="0">Fixed Defect</option>
+                        <option value="1">Normal</option>
+                        <option value="2">Reversible Defect</option>
+                    </select>
+                </div>
+
+                <h3 class="text-bolder" style="margin-top: 47px; margin-bottom: 23px;">Hyperparameters:</h3>
+
+                <div id="logisticRegressionParams">
+                    <div class="form-group">
+                        <label for="C">C (Regularization parameter):</label>
+                        <input type="text" min="0" class="form-control" name="C" placeholder="Default: 1.0">
+                    </div>
+                    <div class="form-group">
+                        <label for="solver">Solver (Optimization algorithm):</label>
+                        <select class="form-control" name="solver" onchange="updatePenaltyOptions(this)">
+                            <option value="liblinear">Liblinear</option>
+                            <option value="lbfgs">LBFGS</option>
+                            <option value="newton-cg">Newton-cg</option>
+                            <option value="saga">Saga</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="penalty">Penalty (Regularization type):</label>
+                        <select class="form-control" name="penalty">
+                            <option value="">None</option>
+                            <option value="l2">L2 (Ridge)</option>
+                            <option value="l1">L1 (Lasso)</option>
+                            <option value="elasticnet">Elastic Net</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="decisionTreeParams" style="display:none;">
+                    <div class="form-group">
+                        <label for="max_depth">Max Depth:</label>
+                        <input type="number" min="1" class="form-control" name="max_depth" placeholder="Default: None">
+                    </div>
+                    <div class="form-group">
+                        <label for="min_samples_split">Min Samples Split:</label>
+                        <input type="number" min="2" class="form-control" name="min_samples_split"
+                            placeholder="Default: 2">
+                    </div>
+                    <div class="form-group">
+                        <label for="min_samples_leaf">Min Samples Leaf:</label>
+                        <input type="number" min="1" class="form-control" name="min_samples_leaf"
+                            placeholder="Default: 1">
+                    </div>
+                </div>
+
+                <div id="knnParams" style="display:none;">
+                    <div class="form-group">
+                        <label for="n_neighbors">Number of Neighbors:</label>
+                        <input type="text" min="1" class="form-control" name="n_neighbors" placeholder="Default: 5">
+                    </div>
+                    <div class="form-group">
+                        <label for="weights">Weights:</label>
+                        <select class="form-control" name="weights">
+                            <option value="uniform">Uniform</option>
+                            <option value="distance">Distance</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="algorithm">Algorithm:</label>
+                        <select class="form-control" name="algorithm">
+                            <option value="auto">Auto</option>
+                            <option value="ball_tree">Ball Tree</option>
+                            <option value="kd_tree">KD Tree</option>
+                            <option value="brute">Brute</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="svmParams" style="display:none;">
+                    <div class="form-group">
+                        <label for="C_svm">C (Regularization parameter):</label>
+                        <input type="text" class="form-control" name="C_svm" placeholder="Default: 0.1">
+                    </div>
+                    <div class="form-group">
+                        <label for="kernel">Kernel:</label>
+                        <select class="form-control" name="kernel">
+                            <option value="rbf">RBF</option>
+                            <option value="linear">Linear</option>
+                            <option value="poly">Poly</option>
+                            <option value="sigmoid">Sigmoid</option>
+                            <option value="precomputed">Precomputed</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="gamma">Gamma:</label>
+                        <select class="form-control" name="gamma">
+                            <option value="scale">Scale</option>
+                            <option value="auto">Auto</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-3">
+                <label for="modelType">Select Model Type:</label> <br>
+                <input type="radio" id="logisticRegression" name="modelType" value="logisticRegression" checked
+                    onclick="showHyperparameters('logisticRegression')">
+                <label for="logisticRegression">Logistic Regression</label> <br>
+
+                <input type="radio" id="decisionTree" name="modelType" value="decisionTree"
+                    onclick="showHyperparameters('decisionTree')">
+                <label for="decisionTree">Decision Tree</label> <br>
+
+                <input type="radio" id="knn" name="modelType" value="knn" onclick="showHyperparameters('knn')">
+                <label for="knn">KNN</label> <br>
+
+                <input type="radio" id="svm" name="modelType" value="svm" onclick="showHyperparameters('svm')">
+                <label for="svm">SVM</label> <br>
+
+                <input type="radio" id="naiveBayes" name="modelType" value="naiveBayes"
+                    onclick="showHyperparameters('naiveBayes')">
+                <label for="naiveBayes">Naive Bayes</label> <br> <br>
+
+                <button type="button" onclick="predict()">Predict</button> <br>
+                <p>This patient is predicted to have heart disease: <b id="predictionResult"></b></p>
+                <p id="commentResult"></p>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            updatePenaltyOptions(document.querySelector('select[name="solver"]'));
+        });
+
+        function updatePenaltyOptions(solverDropdown) {
+            var penaltyDropdown = document.querySelector('select[name="penalty"]');
+            var solverValue = solverDropdown.value;
+
+            penaltyDropdown.querySelectorAll('option').forEach(function (option) {
+                option.style.display = 'block';
+            });
+
+            penaltyDropdown.value = '';
+
+            if (solverValue === 'liblinear') {
+                penaltyDropdown.value = 'l2';
+                penaltyDropdown.querySelector('option[value=""]').style.display = 'none';
+                penaltyDropdown.querySelector('option[value="elasticnet"]').style.display = 'none';
+            }
+            if (solverValue === 'newton-cg' || solverValue === 'lbfgs') {
+                penaltyDropdown.querySelector('option[value="l1"]').style.display = 'none';
+                penaltyDropdown.querySelector('option[value="elasticnet"]').style.display = 'none';
+            }
+        }
+
+        function showHyperparameters(modelType) {
+            document.getElementById('logisticRegressionParams').style.display = 'none';
+            document.getElementById('decisionTreeParams').style.display = 'none';
+            document.getElementById('knnParams').style.display = 'none';
+            document.getElementById('svmParams').style.display = 'none';
+
+            if (modelType === 'naiveBayes') {
+                return;
+            }
+
+            document.getElementById(`${modelType}Params`).style.display = 'block';
+
+            if (modelType === 'logisticRegression') {
+                updatePenaltyOptions(document.querySelector('select[name="solver"]'));
+            }
+        }
+
+        function predict() {
+            const modelType = document.querySelector('input[name="modelType"]:checked').value;
+
+            const formData = new FormData(document.getElementById('predictionForm'));
+
+            formData.append('modelType', modelType);
+
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if ('error' in data) {
+                        alert(data.error);
+                    } else {
+                        let isDisease = 'No';
+                        if (data.prediction === 1) {
+                            isDisease = 'Yes';
+                        }
+                        alert(data.comment);
+                        document.getElementById('predictionResult').innerText = `${isDisease} (${data.model})`;
+                        document.getElementById('commentResult').innerText = `${data.comment}`;
+                    }
+                })
+                .catch(error => {
+                    alert('Error:', error);
+                });
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

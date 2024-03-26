@@ -1,0 +1,4145 @@
+﻿ID,Pivot Field Names,Pivot Field Values
+0,Age,63
+0,Chest Pain Type,3
+0,Cholesterol,233
+0,Disease,1
+0,Exercise Induced Angina,0
+0,Fasting Blood Sugar,1
+0,Max Heart Rate Achieved,150
+0,Num Major Vessels,0
+0,Resting Blood Pressure,145
+0,Resting Electrocardiogram,0
+0,Sex,1
+0,St Depression,2.3
+0,St Slope,0
+0,Thalassemia,1
+1,Age,37
+1,Chest Pain Type,2
+1,Cholesterol,250
+1,Disease,1
+1,Exercise Induced Angina,0
+1,Fasting Blood Sugar,0
+1,Max Heart Rate Achieved,187
+1,Num Major Vessels,0
+1,Resting Blood Pressure,130
+1,Resting Electrocardiogram,1
+1,Sex,1
+1,St Depression,3.5
+1,St Slope,0
+1,Thalassemia,2
+2,Age,41
+2,Chest Pain Type,1
+2,Cholesterol,204
+2,Disease,1
+2,Exercise Induced Angina,0
+2,Fasting Blood Sugar,0
+2,Max Heart Rate Achieved,172
+2,Num Major Vessels,0
+2,Resting Blood Pressure,130
+2,Resting Electrocardiogram,0
+2,Sex,0
+2,St Depression,1.4
+2,St Slope,2
+2,Thalassemia,2
+3,Age,56
+3,Chest Pain Type,1
+3,Cholesterol,236
+3,Disease,1
+3,Exercise Induced Angina,0
+3,Fasting Blood Sugar,0
+3,Max Heart Rate Achieved,178
+3,Num Major Vessels,0
+3,Resting Blood Pressure,120
+3,Resting Electrocardiogram,1
+3,Sex,1
+3,St Depression,0.8
+3,St Slope,2
+3,Thalassemia,2
+4,Age,57
+4,Chest Pain Type,0
+4,Cholesterol,354
+4,Disease,1
+4,Exercise Induced Angina,1
+4,Fasting Blood Sugar,0
+4,Max Heart Rate Achieved,163
+4,Num Major Vessels,0
+4,Resting Blood Pressure,120
+4,Resting Electrocardiogram,1
+4,Sex,0
+4,St Depression,0.6
+4,St Slope,2
+4,Thalassemia,2
+5,Age,57
+5,Chest Pain Type,0
+5,Cholesterol,192
+5,Disease,1
+5,Exercise Induced Angina,0
+5,Fasting Blood Sugar,0
+5,Max Heart Rate Achieved,148
+5,Num Major Vessels,0
+5,Resting Blood Pressure,140
+5,Resting Electrocardiogram,1
+5,Sex,1
+5,St Depression,0.4
+5,St Slope,1
+5,Thalassemia,1
+6,Age,56
+6,Chest Pain Type,1
+6,Cholesterol,294
+6,Disease,1
+6,Exercise Induced Angina,0
+6,Fasting Blood Sugar,0
+6,Max Heart Rate Achieved,153
+6,Num Major Vessels,0
+6,Resting Blood Pressure,140
+6,Resting Electrocardiogram,0
+6,Sex,0
+6,St Depression,1.3
+6,St Slope,1
+6,Thalassemia,2
+7,Age,44
+7,Chest Pain Type,1
+7,Cholesterol,263
+7,Disease,1
+7,Exercise Induced Angina,0
+7,Fasting Blood Sugar,0
+7,Max Heart Rate Achieved,173
+7,Num Major Vessels,0
+7,Resting Blood Pressure,120
+7,Resting Electrocardiogram,1
+7,Sex,1
+7,St Depression,0
+7,St Slope,2
+7,Thalassemia,3
+8,Age,52
+8,Chest Pain Type,2
+8,Cholesterol,199
+8,Disease,1
+8,Exercise Induced Angina,0
+8,Fasting Blood Sugar,1
+8,Max Heart Rate Achieved,162
+8,Num Major Vessels,0
+8,Resting Blood Pressure,172
+8,Resting Electrocardiogram,1
+8,Sex,1
+8,St Depression,0.5
+8,St Slope,2
+8,Thalassemia,3
+9,Age,57
+9,Chest Pain Type,2
+9,Cholesterol,168
+9,Disease,1
+9,Exercise Induced Angina,0
+9,Fasting Blood Sugar,0
+9,Max Heart Rate Achieved,174
+9,Num Major Vessels,0
+9,Resting Blood Pressure,150
+9,Resting Electrocardiogram,1
+9,Sex,1
+9,St Depression,1.6
+9,St Slope,2
+9,Thalassemia,2
+10,Age,54
+10,Chest Pain Type,0
+10,Cholesterol,239
+10,Disease,1
+10,Exercise Induced Angina,0
+10,Fasting Blood Sugar,0
+10,Max Heart Rate Achieved,160
+10,Num Major Vessels,0
+10,Resting Blood Pressure,140
+10,Resting Electrocardiogram,1
+10,Sex,1
+10,St Depression,1.2
+10,St Slope,2
+10,Thalassemia,2
+11,Age,48
+11,Chest Pain Type,2
+11,Cholesterol,275
+11,Disease,1
+11,Exercise Induced Angina,0
+11,Fasting Blood Sugar,0
+11,Max Heart Rate Achieved,139
+11,Num Major Vessels,0
+11,Resting Blood Pressure,130
+11,Resting Electrocardiogram,1
+11,Sex,0
+11,St Depression,0.2
+11,St Slope,2
+11,Thalassemia,2
+12,Age,49
+12,Chest Pain Type,1
+12,Cholesterol,266
+12,Disease,1
+12,Exercise Induced Angina,0
+12,Fasting Blood Sugar,0
+12,Max Heart Rate Achieved,171
+12,Num Major Vessels,0
+12,Resting Blood Pressure,130
+12,Resting Electrocardiogram,1
+12,Sex,1
+12,St Depression,0.6
+12,St Slope,2
+12,Thalassemia,2
+13,Age,64
+13,Chest Pain Type,3
+13,Cholesterol,211
+13,Disease,1
+13,Exercise Induced Angina,1
+13,Fasting Blood Sugar,0
+13,Max Heart Rate Achieved,144
+13,Num Major Vessels,0
+13,Resting Blood Pressure,110
+13,Resting Electrocardiogram,0
+13,Sex,1
+13,St Depression,1.8
+13,St Slope,1
+13,Thalassemia,2
+14,Age,58
+14,Chest Pain Type,3
+14,Cholesterol,283
+14,Disease,1
+14,Exercise Induced Angina,0
+14,Fasting Blood Sugar,1
+14,Max Heart Rate Achieved,162
+14,Num Major Vessels,0
+14,Resting Blood Pressure,150
+14,Resting Electrocardiogram,0
+14,Sex,0
+14,St Depression,1
+14,St Slope,2
+14,Thalassemia,2
+15,Age,50
+15,Chest Pain Type,2
+15,Cholesterol,219
+15,Disease,1
+15,Exercise Induced Angina,0
+15,Fasting Blood Sugar,0
+15,Max Heart Rate Achieved,158
+15,Num Major Vessels,0
+15,Resting Blood Pressure,120
+15,Resting Electrocardiogram,1
+15,Sex,0
+15,St Depression,1.6
+15,St Slope,1
+15,Thalassemia,2
+16,Age,58
+16,Chest Pain Type,2
+16,Cholesterol,340
+16,Disease,1
+16,Exercise Induced Angina,0
+16,Fasting Blood Sugar,0
+16,Max Heart Rate Achieved,172
+16,Num Major Vessels,0
+16,Resting Blood Pressure,120
+16,Resting Electrocardiogram,1
+16,Sex,0
+16,St Depression,0
+16,St Slope,2
+16,Thalassemia,2
+17,Age,66
+17,Chest Pain Type,3
+17,Cholesterol,226
+17,Disease,1
+17,Exercise Induced Angina,0
+17,Fasting Blood Sugar,0
+17,Max Heart Rate Achieved,114
+17,Num Major Vessels,0
+17,Resting Blood Pressure,150
+17,Resting Electrocardiogram,1
+17,Sex,0
+17,St Depression,2.6
+17,St Slope,0
+17,Thalassemia,2
+18,Age,43
+18,Chest Pain Type,0
+18,Cholesterol,247
+18,Disease,1
+18,Exercise Induced Angina,0
+18,Fasting Blood Sugar,0
+18,Max Heart Rate Achieved,171
+18,Num Major Vessels,0
+18,Resting Blood Pressure,150
+18,Resting Electrocardiogram,1
+18,Sex,1
+18,St Depression,1.5
+18,St Slope,2
+18,Thalassemia,2
+19,Age,69
+19,Chest Pain Type,3
+19,Cholesterol,239
+19,Disease,1
+19,Exercise Induced Angina,0
+19,Fasting Blood Sugar,0
+19,Max Heart Rate Achieved,151
+19,Num Major Vessels,2
+19,Resting Blood Pressure,140
+19,Resting Electrocardiogram,1
+19,Sex,0
+19,St Depression,1.8
+19,St Slope,2
+19,Thalassemia,2
+20,Age,59
+20,Chest Pain Type,0
+20,Cholesterol,234
+20,Disease,1
+20,Exercise Induced Angina,0
+20,Fasting Blood Sugar,0
+20,Max Heart Rate Achieved,161
+20,Num Major Vessels,0
+20,Resting Blood Pressure,135
+20,Resting Electrocardiogram,1
+20,Sex,1
+20,St Depression,0.5
+20,St Slope,1
+20,Thalassemia,3
+21,Age,44
+21,Chest Pain Type,2
+21,Cholesterol,233
+21,Disease,1
+21,Exercise Induced Angina,1
+21,Fasting Blood Sugar,0
+21,Max Heart Rate Achieved,179
+21,Num Major Vessels,0
+21,Resting Blood Pressure,130
+21,Resting Electrocardiogram,1
+21,Sex,1
+21,St Depression,0.4
+21,St Slope,2
+21,Thalassemia,2
+22,Age,42
+22,Chest Pain Type,0
+22,Cholesterol,226
+22,Disease,1
+22,Exercise Induced Angina,0
+22,Fasting Blood Sugar,0
+22,Max Heart Rate Achieved,178
+22,Num Major Vessels,0
+22,Resting Blood Pressure,140
+22,Resting Electrocardiogram,1
+22,Sex,1
+22,St Depression,0
+22,St Slope,2
+22,Thalassemia,2
+23,Age,61
+23,Chest Pain Type,2
+23,Cholesterol,243
+23,Disease,1
+23,Exercise Induced Angina,1
+23,Fasting Blood Sugar,1
+23,Max Heart Rate Achieved,137
+23,Num Major Vessels,0
+23,Resting Blood Pressure,150
+23,Resting Electrocardiogram,1
+23,Sex,1
+23,St Depression,1
+23,St Slope,1
+23,Thalassemia,2
+24,Age,40
+24,Chest Pain Type,3
+24,Cholesterol,199
+24,Disease,1
+24,Exercise Induced Angina,1
+24,Fasting Blood Sugar,0
+24,Max Heart Rate Achieved,178
+24,Num Major Vessels,0
+24,Resting Blood Pressure,140
+24,Resting Electrocardiogram,1
+24,Sex,1
+24,St Depression,1.4
+24,St Slope,2
+24,Thalassemia,3
+25,Age,71
+25,Chest Pain Type,1
+25,Cholesterol,302
+25,Disease,1
+25,Exercise Induced Angina,0
+25,Fasting Blood Sugar,0
+25,Max Heart Rate Achieved,162
+25,Num Major Vessels,2
+25,Resting Blood Pressure,160
+25,Resting Electrocardiogram,1
+25,Sex,0
+25,St Depression,0.4
+25,St Slope,2
+25,Thalassemia,2
+26,Age,59
+26,Chest Pain Type,2
+26,Cholesterol,212
+26,Disease,1
+26,Exercise Induced Angina,0
+26,Fasting Blood Sugar,1
+26,Max Heart Rate Achieved,157
+26,Num Major Vessels,0
+26,Resting Blood Pressure,150
+26,Resting Electrocardiogram,1
+26,Sex,1
+26,St Depression,1.6
+26,St Slope,2
+26,Thalassemia,2
+27,Age,51
+27,Chest Pain Type,2
+27,Cholesterol,175
+27,Disease,1
+27,Exercise Induced Angina,0
+27,Fasting Blood Sugar,0
+27,Max Heart Rate Achieved,123
+27,Num Major Vessels,0
+27,Resting Blood Pressure,110
+27,Resting Electrocardiogram,1
+27,Sex,1
+27,St Depression,0.6
+27,St Slope,2
+27,Thalassemia,2
+28,Age,65
+28,Chest Pain Type,2
+28,Cholesterol,417
+28,Disease,1
+28,Exercise Induced Angina,0
+28,Fasting Blood Sugar,1
+28,Max Heart Rate Achieved,157
+28,Num Major Vessels,1
+28,Resting Blood Pressure,140
+28,Resting Electrocardiogram,0
+28,Sex,0
+28,St Depression,0.8
+28,St Slope,2
+28,Thalassemia,2
+29,Age,53
+29,Chest Pain Type,2
+29,Cholesterol,197
+29,Disease,1
+29,Exercise Induced Angina,0
+29,Fasting Blood Sugar,1
+29,Max Heart Rate Achieved,152
+29,Num Major Vessels,0
+29,Resting Blood Pressure,130
+29,Resting Electrocardiogram,0
+29,Sex,1
+29,St Depression,1.2
+29,St Slope,0
+29,Thalassemia,2
+30,Age,41
+30,Chest Pain Type,1
+30,Cholesterol,198
+30,Disease,1
+30,Exercise Induced Angina,0
+30,Fasting Blood Sugar,0
+30,Max Heart Rate Achieved,168
+30,Num Major Vessels,1
+30,Resting Blood Pressure,105
+30,Resting Electrocardiogram,1
+30,Sex,0
+30,St Depression,0
+30,St Slope,2
+30,Thalassemia,2
+31,Age,65
+31,Chest Pain Type,0
+31,Cholesterol,177
+31,Disease,1
+31,Exercise Induced Angina,0
+31,Fasting Blood Sugar,0
+31,Max Heart Rate Achieved,140
+31,Num Major Vessels,0
+31,Resting Blood Pressure,120
+31,Resting Electrocardiogram,1
+31,Sex,1
+31,St Depression,0.4
+31,St Slope,2
+31,Thalassemia,3
+32,Age,44
+32,Chest Pain Type,1
+32,Cholesterol,219
+32,Disease,1
+32,Exercise Induced Angina,0
+32,Fasting Blood Sugar,0
+32,Max Heart Rate Achieved,188
+32,Num Major Vessels,0
+32,Resting Blood Pressure,130
+32,Resting Electrocardiogram,0
+32,Sex,1
+32,St Depression,0
+32,St Slope,2
+32,Thalassemia,2
+33,Age,54
+33,Chest Pain Type,2
+33,Cholesterol,273
+33,Disease,1
+33,Exercise Induced Angina,0
+33,Fasting Blood Sugar,0
+33,Max Heart Rate Achieved,152
+33,Num Major Vessels,1
+33,Resting Blood Pressure,125
+33,Resting Electrocardiogram,0
+33,Sex,1
+33,St Depression,0.5
+33,St Slope,0
+33,Thalassemia,2
+34,Age,51
+34,Chest Pain Type,3
+34,Cholesterol,213
+34,Disease,1
+34,Exercise Induced Angina,1
+34,Fasting Blood Sugar,0
+34,Max Heart Rate Achieved,125
+34,Num Major Vessels,1
+34,Resting Blood Pressure,125
+34,Resting Electrocardiogram,0
+34,Sex,1
+34,St Depression,1.4
+34,St Slope,2
+34,Thalassemia,2
+35,Age,46
+35,Chest Pain Type,2
+35,Cholesterol,177
+35,Disease,1
+35,Exercise Induced Angina,1
+35,Fasting Blood Sugar,0
+35,Max Heart Rate Achieved,160
+35,Num Major Vessels,0
+35,Resting Blood Pressure,142
+35,Resting Electrocardiogram,0
+35,Sex,0
+35,St Depression,1.4
+35,St Slope,0
+35,Thalassemia,2
+36,Age,54
+36,Chest Pain Type,2
+36,Cholesterol,304
+36,Disease,1
+36,Exercise Induced Angina,0
+36,Fasting Blood Sugar,1
+36,Max Heart Rate Achieved,170
+36,Num Major Vessels,0
+36,Resting Blood Pressure,135
+36,Resting Electrocardiogram,1
+36,Sex,0
+36,St Depression,0
+36,St Slope,2
+36,Thalassemia,2
+37,Age,54
+37,Chest Pain Type,2
+37,Cholesterol,232
+37,Disease,1
+37,Exercise Induced Angina,0
+37,Fasting Blood Sugar,0
+37,Max Heart Rate Achieved,165
+37,Num Major Vessels,0
+37,Resting Blood Pressure,150
+37,Resting Electrocardiogram,0
+37,Sex,1
+37,St Depression,1.6
+37,St Slope,2
+37,Thalassemia,3
+38,Age,65
+38,Chest Pain Type,2
+38,Cholesterol,269
+38,Disease,1
+38,Exercise Induced Angina,0
+38,Fasting Blood Sugar,0
+38,Max Heart Rate Achieved,148
+38,Num Major Vessels,0
+38,Resting Blood Pressure,155
+38,Resting Electrocardiogram,1
+38,Sex,0
+38,St Depression,0.8
+38,St Slope,2
+38,Thalassemia,2
+39,Age,65
+39,Chest Pain Type,2
+39,Cholesterol,360
+39,Disease,1
+39,Exercise Induced Angina,0
+39,Fasting Blood Sugar,0
+39,Max Heart Rate Achieved,151
+39,Num Major Vessels,0
+39,Resting Blood Pressure,160
+39,Resting Electrocardiogram,0
+39,Sex,0
+39,St Depression,0.8
+39,St Slope,2
+39,Thalassemia,2
+40,Age,51
+40,Chest Pain Type,2
+40,Cholesterol,308
+40,Disease,1
+40,Exercise Induced Angina,0
+40,Fasting Blood Sugar,0
+40,Max Heart Rate Achieved,142
+40,Num Major Vessels,1
+40,Resting Blood Pressure,140
+40,Resting Electrocardiogram,0
+40,Sex,0
+40,St Depression,1.5
+40,St Slope,2
+40,Thalassemia,2
+41,Age,48
+41,Chest Pain Type,1
+41,Cholesterol,245
+41,Disease,1
+41,Exercise Induced Angina,0
+41,Fasting Blood Sugar,0
+41,Max Heart Rate Achieved,180
+41,Num Major Vessels,0
+41,Resting Blood Pressure,130
+41,Resting Electrocardiogram,0
+41,Sex,1
+41,St Depression,0.2
+41,St Slope,1
+41,Thalassemia,2
+42,Age,45
+42,Chest Pain Type,0
+42,Cholesterol,208
+42,Disease,1
+42,Exercise Induced Angina,1
+42,Fasting Blood Sugar,0
+42,Max Heart Rate Achieved,148
+42,Num Major Vessels,0
+42,Resting Blood Pressure,104
+42,Resting Electrocardiogram,0
+42,Sex,1
+42,St Depression,3
+42,St Slope,1
+42,Thalassemia,2
+43,Age,53
+43,Chest Pain Type,0
+43,Cholesterol,264
+43,Disease,1
+43,Exercise Induced Angina,0
+43,Fasting Blood Sugar,0
+43,Max Heart Rate Achieved,143
+43,Num Major Vessels,0
+43,Resting Blood Pressure,130
+43,Resting Electrocardiogram,0
+43,Sex,0
+43,St Depression,0.4
+43,St Slope,1
+43,Thalassemia,2
+44,Age,39
+44,Chest Pain Type,2
+44,Cholesterol,321
+44,Disease,1
+44,Exercise Induced Angina,0
+44,Fasting Blood Sugar,0
+44,Max Heart Rate Achieved,182
+44,Num Major Vessels,0
+44,Resting Blood Pressure,140
+44,Resting Electrocardiogram,0
+44,Sex,1
+44,St Depression,0
+44,St Slope,2
+44,Thalassemia,2
+45,Age,52
+45,Chest Pain Type,1
+45,Cholesterol,325
+45,Disease,1
+45,Exercise Induced Angina,0
+45,Fasting Blood Sugar,0
+45,Max Heart Rate Achieved,172
+45,Num Major Vessels,0
+45,Resting Blood Pressure,120
+45,Resting Electrocardiogram,1
+45,Sex,1
+45,St Depression,0.2
+45,St Slope,2
+45,Thalassemia,2
+46,Age,44
+46,Chest Pain Type,2
+46,Cholesterol,235
+46,Disease,1
+46,Exercise Induced Angina,0
+46,Fasting Blood Sugar,0
+46,Max Heart Rate Achieved,180
+46,Num Major Vessels,0
+46,Resting Blood Pressure,140
+46,Resting Electrocardiogram,0
+46,Sex,1
+46,St Depression,0
+46,St Slope,2
+46,Thalassemia,2
+47,Age,47
+47,Chest Pain Type,2
+47,Cholesterol,257
+47,Disease,1
+47,Exercise Induced Angina,0
+47,Fasting Blood Sugar,0
+47,Max Heart Rate Achieved,156
+47,Num Major Vessels,0
+47,Resting Blood Pressure,138
+47,Resting Electrocardiogram,0
+47,Sex,1
+47,St Depression,0
+47,St Slope,2
+47,Thalassemia,2
+48,Age,53
+48,Chest Pain Type,0
+48,Cholesterol,234
+48,Disease,1
+48,Exercise Induced Angina,0
+48,Fasting Blood Sugar,0
+48,Max Heart Rate Achieved,160
+48,Num Major Vessels,0
+48,Resting Blood Pressure,138
+48,Resting Electrocardiogram,0
+48,Sex,0
+48,St Depression,0
+48,St Slope,2
+48,Thalassemia,2
+49,Age,51
+49,Chest Pain Type,2
+49,Cholesterol,256
+49,Disease,1
+49,Exercise Induced Angina,0
+49,Fasting Blood Sugar,0
+49,Max Heart Rate Achieved,149
+49,Num Major Vessels,0
+49,Resting Blood Pressure,130
+49,Resting Electrocardiogram,0
+49,Sex,0
+49,St Depression,0.5
+49,St Slope,2
+49,Thalassemia,2
+50,Age,66
+50,Chest Pain Type,0
+50,Cholesterol,302
+50,Disease,1
+50,Exercise Induced Angina,0
+50,Fasting Blood Sugar,0
+50,Max Heart Rate Achieved,151
+50,Num Major Vessels,0
+50,Resting Blood Pressure,120
+50,Resting Electrocardiogram,0
+50,Sex,1
+50,St Depression,0.4
+50,St Slope,1
+50,Thalassemia,2
+51,Age,62
+51,Chest Pain Type,2
+51,Cholesterol,231
+51,Disease,1
+51,Exercise Induced Angina,0
+51,Fasting Blood Sugar,0
+51,Max Heart Rate Achieved,146
+51,Num Major Vessels,3
+51,Resting Blood Pressure,130
+51,Resting Electrocardiogram,1
+51,Sex,1
+51,St Depression,1.8
+51,St Slope,1
+51,Thalassemia,3
+52,Age,44
+52,Chest Pain Type,2
+52,Cholesterol,141
+52,Disease,1
+52,Exercise Induced Angina,0
+52,Fasting Blood Sugar,0
+52,Max Heart Rate Achieved,175
+52,Num Major Vessels,0
+52,Resting Blood Pressure,108
+52,Resting Electrocardiogram,1
+52,Sex,0
+52,St Depression,0.6
+52,St Slope,1
+52,Thalassemia,2
+53,Age,63
+53,Chest Pain Type,2
+53,Cholesterol,252
+53,Disease,1
+53,Exercise Induced Angina,0
+53,Fasting Blood Sugar,0
+53,Max Heart Rate Achieved,172
+53,Num Major Vessels,0
+53,Resting Blood Pressure,135
+53,Resting Electrocardiogram,0
+53,Sex,0
+53,St Depression,0
+53,St Slope,2
+53,Thalassemia,2
+54,Age,52
+54,Chest Pain Type,1
+54,Cholesterol,201
+54,Disease,1
+54,Exercise Induced Angina,0
+54,Fasting Blood Sugar,0
+54,Max Heart Rate Achieved,158
+54,Num Major Vessels,1
+54,Resting Blood Pressure,134
+54,Resting Electrocardiogram,1
+54,Sex,1
+54,St Depression,0.8
+54,St Slope,2
+54,Thalassemia,2
+55,Age,48
+55,Chest Pain Type,0
+55,Cholesterol,222
+55,Disease,1
+55,Exercise Induced Angina,0
+55,Fasting Blood Sugar,0
+55,Max Heart Rate Achieved,186
+55,Num Major Vessels,0
+55,Resting Blood Pressure,122
+55,Resting Electrocardiogram,0
+55,Sex,1
+55,St Depression,0
+55,St Slope,2
+55,Thalassemia,2
+56,Age,45
+56,Chest Pain Type,0
+56,Cholesterol,260
+56,Disease,1
+56,Exercise Induced Angina,0
+56,Fasting Blood Sugar,0
+56,Max Heart Rate Achieved,185
+56,Num Major Vessels,0
+56,Resting Blood Pressure,115
+56,Resting Electrocardiogram,0
+56,Sex,1
+56,St Depression,0
+56,St Slope,2
+56,Thalassemia,2
+57,Age,34
+57,Chest Pain Type,3
+57,Cholesterol,182
+57,Disease,1
+57,Exercise Induced Angina,0
+57,Fasting Blood Sugar,0
+57,Max Heart Rate Achieved,174
+57,Num Major Vessels,0
+57,Resting Blood Pressure,118
+57,Resting Electrocardiogram,0
+57,Sex,1
+57,St Depression,0
+57,St Slope,2
+57,Thalassemia,2
+58,Age,57
+58,Chest Pain Type,0
+58,Cholesterol,303
+58,Disease,1
+58,Exercise Induced Angina,0
+58,Fasting Blood Sugar,0
+58,Max Heart Rate Achieved,159
+58,Num Major Vessels,1
+58,Resting Blood Pressure,128
+58,Resting Electrocardiogram,0
+58,Sex,0
+58,St Depression,0
+58,St Slope,2
+58,Thalassemia,2
+59,Age,71
+59,Chest Pain Type,2
+59,Cholesterol,265
+59,Disease,1
+59,Exercise Induced Angina,0
+59,Fasting Blood Sugar,1
+59,Max Heart Rate Achieved,130
+59,Num Major Vessels,1
+59,Resting Blood Pressure,110
+59,Resting Electrocardiogram,0
+59,Sex,0
+59,St Depression,0
+59,St Slope,2
+59,Thalassemia,2
+60,Age,54
+60,Chest Pain Type,1
+60,Cholesterol,309
+60,Disease,1
+60,Exercise Induced Angina,0
+60,Fasting Blood Sugar,0
+60,Max Heart Rate Achieved,156
+60,Num Major Vessels,0
+60,Resting Blood Pressure,108
+60,Resting Electrocardiogram,1
+60,Sex,1
+60,St Depression,0
+60,St Slope,2
+60,Thalassemia,3
+61,Age,52
+61,Chest Pain Type,3
+61,Cholesterol,186
+61,Disease,1
+61,Exercise Induced Angina,0
+61,Fasting Blood Sugar,0
+61,Max Heart Rate Achieved,190
+61,Num Major Vessels,0
+61,Resting Blood Pressure,118
+61,Resting Electrocardiogram,0
+61,Sex,1
+61,St Depression,0
+61,St Slope,1
+61,Thalassemia,1
+62,Age,41
+62,Chest Pain Type,1
+62,Cholesterol,203
+62,Disease,1
+62,Exercise Induced Angina,0
+62,Fasting Blood Sugar,0
+62,Max Heart Rate Achieved,132
+62,Num Major Vessels,0
+62,Resting Blood Pressure,135
+62,Resting Electrocardiogram,1
+62,Sex,1
+62,St Depression,0
+62,St Slope,1
+62,Thalassemia,1
+63,Age,58
+63,Chest Pain Type,2
+63,Cholesterol,211
+63,Disease,1
+63,Exercise Induced Angina,0
+63,Fasting Blood Sugar,1
+63,Max Heart Rate Achieved,165
+63,Num Major Vessels,0
+63,Resting Blood Pressure,140
+63,Resting Electrocardiogram,0
+63,Sex,1
+63,St Depression,0
+63,St Slope,2
+63,Thalassemia,2
+64,Age,35
+64,Chest Pain Type,0
+64,Cholesterol,183
+64,Disease,1
+64,Exercise Induced Angina,0
+64,Fasting Blood Sugar,0
+64,Max Heart Rate Achieved,182
+64,Num Major Vessels,0
+64,Resting Blood Pressure,138
+64,Resting Electrocardiogram,1
+64,Sex,0
+64,St Depression,1.4
+64,St Slope,2
+64,Thalassemia,2
+65,Age,51
+65,Chest Pain Type,2
+65,Cholesterol,222
+65,Disease,1
+65,Exercise Induced Angina,1
+65,Fasting Blood Sugar,0
+65,Max Heart Rate Achieved,143
+65,Num Major Vessels,0
+65,Resting Blood Pressure,100
+65,Resting Electrocardiogram,1
+65,Sex,1
+65,St Depression,1.2
+65,St Slope,1
+65,Thalassemia,2
+66,Age,45
+66,Chest Pain Type,1
+66,Cholesterol,234
+66,Disease,1
+66,Exercise Induced Angina,0
+66,Fasting Blood Sugar,0
+66,Max Heart Rate Achieved,175
+66,Num Major Vessels,0
+66,Resting Blood Pressure,130
+66,Resting Electrocardiogram,0
+66,Sex,0
+66,St Depression,0.6
+66,St Slope,1
+66,Thalassemia,2
+67,Age,44
+67,Chest Pain Type,1
+67,Cholesterol,220
+67,Disease,1
+67,Exercise Induced Angina,0
+67,Fasting Blood Sugar,0
+67,Max Heart Rate Achieved,170
+67,Num Major Vessels,0
+67,Resting Blood Pressure,120
+67,Resting Electrocardiogram,1
+67,Sex,1
+67,St Depression,0
+67,St Slope,2
+67,Thalassemia,2
+68,Age,62
+68,Chest Pain Type,0
+68,Cholesterol,209
+68,Disease,1
+68,Exercise Induced Angina,0
+68,Fasting Blood Sugar,0
+68,Max Heart Rate Achieved,163
+68,Num Major Vessels,0
+68,Resting Blood Pressure,124
+68,Resting Electrocardiogram,1
+68,Sex,0
+68,St Depression,0
+68,St Slope,2
+68,Thalassemia,2
+69,Age,54
+69,Chest Pain Type,2
+69,Cholesterol,258
+69,Disease,1
+69,Exercise Induced Angina,0
+69,Fasting Blood Sugar,0
+69,Max Heart Rate Achieved,147
+69,Num Major Vessels,0
+69,Resting Blood Pressure,120
+69,Resting Electrocardiogram,0
+69,Sex,1
+69,St Depression,0.4
+69,St Slope,1
+69,Thalassemia,3
+70,Age,51
+70,Chest Pain Type,2
+70,Cholesterol,227
+70,Disease,1
+70,Exercise Induced Angina,1
+70,Fasting Blood Sugar,0
+70,Max Heart Rate Achieved,154
+70,Num Major Vessels,1
+70,Resting Blood Pressure,94
+70,Resting Electrocardiogram,1
+70,Sex,1
+70,St Depression,0
+70,St Slope,2
+70,Thalassemia,3
+71,Age,29
+71,Chest Pain Type,1
+71,Cholesterol,204
+71,Disease,1
+71,Exercise Induced Angina,0
+71,Fasting Blood Sugar,0
+71,Max Heart Rate Achieved,202
+71,Num Major Vessels,0
+71,Resting Blood Pressure,130
+71,Resting Electrocardiogram,0
+71,Sex,1
+71,St Depression,0
+71,St Slope,2
+71,Thalassemia,2
+72,Age,51
+72,Chest Pain Type,0
+72,Cholesterol,261
+72,Disease,1
+72,Exercise Induced Angina,1
+72,Fasting Blood Sugar,0
+72,Max Heart Rate Achieved,186
+72,Num Major Vessels,0
+72,Resting Blood Pressure,140
+72,Resting Electrocardiogram,0
+72,Sex,1
+72,St Depression,0
+72,St Slope,2
+72,Thalassemia,2
+73,Age,43
+73,Chest Pain Type,2
+73,Cholesterol,213
+73,Disease,1
+73,Exercise Induced Angina,0
+73,Fasting Blood Sugar,0
+73,Max Heart Rate Achieved,165
+73,Num Major Vessels,0
+73,Resting Blood Pressure,122
+73,Resting Electrocardiogram,1
+73,Sex,0
+73,St Depression,0.2
+73,St Slope,1
+73,Thalassemia,2
+74,Age,55
+74,Chest Pain Type,1
+74,Cholesterol,250
+74,Disease,1
+74,Exercise Induced Angina,0
+74,Fasting Blood Sugar,0
+74,Max Heart Rate Achieved,161
+74,Num Major Vessels,0
+74,Resting Blood Pressure,135
+74,Resting Electrocardiogram,0
+74,Sex,0
+74,St Depression,1.4
+74,St Slope,1
+74,Thalassemia,2
+75,Age,51
+75,Chest Pain Type,2
+75,Cholesterol,245
+75,Disease,1
+75,Exercise Induced Angina,0
+75,Fasting Blood Sugar,1
+75,Max Heart Rate Achieved,166
+75,Num Major Vessels,0
+75,Resting Blood Pressure,125
+75,Resting Electrocardiogram,0
+75,Sex,1
+75,St Depression,2.4
+75,St Slope,1
+75,Thalassemia,2
+76,Age,59
+76,Chest Pain Type,1
+76,Cholesterol,221
+76,Disease,1
+76,Exercise Induced Angina,1
+76,Fasting Blood Sugar,0
+76,Max Heart Rate Achieved,164
+76,Num Major Vessels,0
+76,Resting Blood Pressure,140
+76,Resting Electrocardiogram,1
+76,Sex,1
+76,St Depression,0
+76,St Slope,2
+76,Thalassemia,2
+77,Age,52
+77,Chest Pain Type,1
+77,Cholesterol,205
+77,Disease,1
+77,Exercise Induced Angina,0
+77,Fasting Blood Sugar,1
+77,Max Heart Rate Achieved,184
+77,Num Major Vessels,0
+77,Resting Blood Pressure,128
+77,Resting Electrocardiogram,1
+77,Sex,1
+77,St Depression,0
+77,St Slope,2
+77,Thalassemia,2
+78,Age,58
+78,Chest Pain Type,2
+78,Cholesterol,240
+78,Disease,1
+78,Exercise Induced Angina,1
+78,Fasting Blood Sugar,0
+78,Max Heart Rate Achieved,154
+78,Num Major Vessels,0
+78,Resting Blood Pressure,105
+78,Resting Electrocardiogram,0
+78,Sex,1
+78,St Depression,0.6
+78,St Slope,1
+78,Thalassemia,3
+79,Age,41
+79,Chest Pain Type,2
+79,Cholesterol,250
+79,Disease,1
+79,Exercise Induced Angina,0
+79,Fasting Blood Sugar,0
+79,Max Heart Rate Achieved,179
+79,Num Major Vessels,0
+79,Resting Blood Pressure,112
+79,Resting Electrocardiogram,1
+79,Sex,1
+79,St Depression,0
+79,St Slope,2
+79,Thalassemia,2
+80,Age,45
+80,Chest Pain Type,1
+80,Cholesterol,308
+80,Disease,1
+80,Exercise Induced Angina,0
+80,Fasting Blood Sugar,0
+80,Max Heart Rate Achieved,170
+80,Num Major Vessels,0
+80,Resting Blood Pressure,128
+80,Resting Electrocardiogram,0
+80,Sex,1
+80,St Depression,0
+80,St Slope,2
+80,Thalassemia,2
+81,Age,60
+81,Chest Pain Type,2
+81,Cholesterol,318
+81,Disease,1
+81,Exercise Induced Angina,0
+81,Fasting Blood Sugar,0
+81,Max Heart Rate Achieved,160
+81,Num Major Vessels,1
+81,Resting Blood Pressure,102
+81,Resting Electrocardiogram,1
+81,Sex,0
+81,St Depression,0
+81,St Slope,2
+81,Thalassemia,2
+82,Age,52
+82,Chest Pain Type,3
+82,Cholesterol,298
+82,Disease,1
+82,Exercise Induced Angina,0
+82,Fasting Blood Sugar,1
+82,Max Heart Rate Achieved,178
+82,Num Major Vessels,0
+82,Resting Blood Pressure,152
+82,Resting Electrocardiogram,1
+82,Sex,1
+82,St Depression,1.2
+82,St Slope,1
+82,Thalassemia,3
+83,Age,42
+83,Chest Pain Type,0
+83,Cholesterol,265
+83,Disease,1
+83,Exercise Induced Angina,0
+83,Fasting Blood Sugar,0
+83,Max Heart Rate Achieved,122
+83,Num Major Vessels,0
+83,Resting Blood Pressure,102
+83,Resting Electrocardiogram,0
+83,Sex,0
+83,St Depression,0.6
+83,St Slope,1
+83,Thalassemia,2
+84,Age,67
+84,Chest Pain Type,2
+84,Cholesterol,564
+84,Disease,1
+84,Exercise Induced Angina,0
+84,Fasting Blood Sugar,0
+84,Max Heart Rate Achieved,160
+84,Num Major Vessels,0
+84,Resting Blood Pressure,115
+84,Resting Electrocardiogram,0
+84,Sex,0
+84,St Depression,1.6
+84,St Slope,1
+84,Thalassemia,3
+85,Age,68
+85,Chest Pain Type,2
+85,Cholesterol,277
+85,Disease,1
+85,Exercise Induced Angina,0
+85,Fasting Blood Sugar,0
+85,Max Heart Rate Achieved,151
+85,Num Major Vessels,1
+85,Resting Blood Pressure,118
+85,Resting Electrocardiogram,1
+85,Sex,1
+85,St Depression,1
+85,St Slope,2
+85,Thalassemia,3
+86,Age,46
+86,Chest Pain Type,1
+86,Cholesterol,197
+86,Disease,1
+86,Exercise Induced Angina,0
+86,Fasting Blood Sugar,1
+86,Max Heart Rate Achieved,156
+86,Num Major Vessels,0
+86,Resting Blood Pressure,101
+86,Resting Electrocardiogram,1
+86,Sex,1
+86,St Depression,0
+86,St Slope,2
+86,Thalassemia,3
+87,Age,54
+87,Chest Pain Type,2
+87,Cholesterol,214
+87,Disease,1
+87,Exercise Induced Angina,0
+87,Fasting Blood Sugar,0
+87,Max Heart Rate Achieved,158
+87,Num Major Vessels,0
+87,Resting Blood Pressure,110
+87,Resting Electrocardiogram,1
+87,Sex,0
+87,St Depression,1.6
+87,St Slope,1
+87,Thalassemia,2
+88,Age,58
+88,Chest Pain Type,0
+88,Cholesterol,248
+88,Disease,1
+88,Exercise Induced Angina,0
+88,Fasting Blood Sugar,0
+88,Max Heart Rate Achieved,122
+88,Num Major Vessels,0
+88,Resting Blood Pressure,100
+88,Resting Electrocardiogram,0
+88,Sex,0
+88,St Depression,1
+88,St Slope,1
+88,Thalassemia,2
+89,Age,48
+89,Chest Pain Type,2
+89,Cholesterol,255
+89,Disease,1
+89,Exercise Induced Angina,0
+89,Fasting Blood Sugar,1
+89,Max Heart Rate Achieved,175
+89,Num Major Vessels,2
+89,Resting Blood Pressure,124
+89,Resting Electrocardiogram,1
+89,Sex,1
+89,St Depression,0
+89,St Slope,2
+89,Thalassemia,2
+90,Age,57
+90,Chest Pain Type,0
+90,Cholesterol,207
+90,Disease,1
+90,Exercise Induced Angina,1
+90,Fasting Blood Sugar,0
+90,Max Heart Rate Achieved,168
+90,Num Major Vessels,0
+90,Resting Blood Pressure,132
+90,Resting Electrocardiogram,1
+90,Sex,1
+90,St Depression,0
+90,St Slope,2
+90,Thalassemia,3
+91,Age,54
+91,Chest Pain Type,1
+91,Cholesterol,288
+91,Disease,1
+91,Exercise Induced Angina,1
+91,Fasting Blood Sugar,1
+91,Max Heart Rate Achieved,159
+91,Num Major Vessels,1
+91,Resting Blood Pressure,132
+91,Resting Electrocardiogram,0
+91,Sex,0
+91,St Depression,0
+91,St Slope,2
+91,Thalassemia,2
+92,Age,45
+92,Chest Pain Type,1
+92,Cholesterol,160
+92,Disease,1
+92,Exercise Induced Angina,0
+92,Fasting Blood Sugar,0
+92,Max Heart Rate Achieved,138
+92,Num Major Vessels,0
+92,Resting Blood Pressure,112
+92,Resting Electrocardiogram,1
+92,Sex,0
+92,St Depression,0
+92,St Slope,1
+92,Thalassemia,2
+93,Age,53
+93,Chest Pain Type,0
+93,Cholesterol,226
+93,Disease,1
+93,Exercise Induced Angina,1
+93,Fasting Blood Sugar,0
+93,Max Heart Rate Achieved,111
+93,Num Major Vessels,0
+93,Resting Blood Pressure,142
+93,Resting Electrocardiogram,0
+93,Sex,1
+93,St Depression,0
+93,St Slope,2
+93,Thalassemia,3
+94,Age,62
+94,Chest Pain Type,0
+94,Cholesterol,394
+94,Disease,1
+94,Exercise Induced Angina,0
+94,Fasting Blood Sugar,0
+94,Max Heart Rate Achieved,157
+94,Num Major Vessels,0
+94,Resting Blood Pressure,140
+94,Resting Electrocardiogram,0
+94,Sex,0
+94,St Depression,1.2
+94,St Slope,1
+94,Thalassemia,2
+95,Age,52
+95,Chest Pain Type,0
+95,Cholesterol,233
+95,Disease,1
+95,Exercise Induced Angina,0
+95,Fasting Blood Sugar,1
+95,Max Heart Rate Achieved,147
+95,Num Major Vessels,3
+95,Resting Blood Pressure,108
+95,Resting Electrocardiogram,1
+95,Sex,1
+95,St Depression,0.1
+95,St Slope,2
+95,Thalassemia,3
+96,Age,43
+96,Chest Pain Type,2
+96,Cholesterol,315
+96,Disease,1
+96,Exercise Induced Angina,0
+96,Fasting Blood Sugar,0
+96,Max Heart Rate Achieved,162
+96,Num Major Vessels,1
+96,Resting Blood Pressure,130
+96,Resting Electrocardiogram,1
+96,Sex,1
+96,St Depression,1.9
+96,St Slope,2
+96,Thalassemia,2
+97,Age,53
+97,Chest Pain Type,2
+97,Cholesterol,246
+97,Disease,1
+97,Exercise Induced Angina,0
+97,Fasting Blood Sugar,1
+97,Max Heart Rate Achieved,173
+97,Num Major Vessels,3
+97,Resting Blood Pressure,130
+97,Resting Electrocardiogram,0
+97,Sex,1
+97,St Depression,0
+97,St Slope,2
+97,Thalassemia,2
+98,Age,42
+98,Chest Pain Type,3
+98,Cholesterol,244
+98,Disease,1
+98,Exercise Induced Angina,0
+98,Fasting Blood Sugar,0
+98,Max Heart Rate Achieved,178
+98,Num Major Vessels,2
+98,Resting Blood Pressure,148
+98,Resting Electrocardiogram,0
+98,Sex,1
+98,St Depression,0.8
+98,St Slope,2
+98,Thalassemia,2
+99,Age,59
+99,Chest Pain Type,3
+99,Cholesterol,270
+99,Disease,1
+99,Exercise Induced Angina,0
+99,Fasting Blood Sugar,0
+99,Max Heart Rate Achieved,145
+99,Num Major Vessels,0
+99,Resting Blood Pressure,178
+99,Resting Electrocardiogram,0
+99,Sex,1
+99,St Depression,4.2
+99,St Slope,0
+99,Thalassemia,3
+100,Age,63
+100,Chest Pain Type,1
+100,Cholesterol,195
+100,Disease,1
+100,Exercise Induced Angina,0
+100,Fasting Blood Sugar,0
+100,Max Heart Rate Achieved,179
+100,Num Major Vessels,2
+100,Resting Blood Pressure,140
+100,Resting Electrocardiogram,1
+100,Sex,0
+100,St Depression,0
+100,St Slope,2
+100,Thalassemia,2
+101,Age,42
+101,Chest Pain Type,2
+101,Cholesterol,240
+101,Disease,1
+101,Exercise Induced Angina,0
+101,Fasting Blood Sugar,1
+101,Max Heart Rate Achieved,194
+101,Num Major Vessels,0
+101,Resting Blood Pressure,120
+101,Resting Electrocardiogram,1
+101,Sex,1
+101,St Depression,0.8
+101,St Slope,0
+101,Thalassemia,3
+102,Age,50
+102,Chest Pain Type,2
+102,Cholesterol,196
+102,Disease,1
+102,Exercise Induced Angina,0
+102,Fasting Blood Sugar,0
+102,Max Heart Rate Achieved,163
+102,Num Major Vessels,0
+102,Resting Blood Pressure,129
+102,Resting Electrocardiogram,1
+102,Sex,1
+102,St Depression,0
+102,St Slope,2
+102,Thalassemia,2
+103,Age,68
+103,Chest Pain Type,2
+103,Cholesterol,211
+103,Disease,1
+103,Exercise Induced Angina,0
+103,Fasting Blood Sugar,0
+103,Max Heart Rate Achieved,115
+103,Num Major Vessels,0
+103,Resting Blood Pressure,120
+103,Resting Electrocardiogram,0
+103,Sex,0
+103,St Depression,1.5
+103,St Slope,1
+103,Thalassemia,2
+104,Age,69
+104,Chest Pain Type,3
+104,Cholesterol,234
+104,Disease,1
+104,Exercise Induced Angina,0
+104,Fasting Blood Sugar,1
+104,Max Heart Rate Achieved,131
+104,Num Major Vessels,1
+104,Resting Blood Pressure,160
+104,Resting Electrocardiogram,0
+104,Sex,1
+104,St Depression,0.1
+104,St Slope,1
+104,Thalassemia,2
+105,Age,45
+105,Chest Pain Type,0
+105,Cholesterol,236
+105,Disease,1
+105,Exercise Induced Angina,1
+105,Fasting Blood Sugar,0
+105,Max Heart Rate Achieved,152
+105,Num Major Vessels,0
+105,Resting Blood Pressure,138
+105,Resting Electrocardiogram,0
+105,Sex,0
+105,St Depression,0.2
+105,St Slope,1
+105,Thalassemia,2
+106,Age,50
+106,Chest Pain Type,1
+106,Cholesterol,244
+106,Disease,1
+106,Exercise Induced Angina,0
+106,Fasting Blood Sugar,0
+106,Max Heart Rate Achieved,162
+106,Num Major Vessels,0
+106,Resting Blood Pressure,120
+106,Resting Electrocardiogram,1
+106,Sex,0
+106,St Depression,1.1
+106,St Slope,2
+106,Thalassemia,2
+107,Age,50
+107,Chest Pain Type,0
+107,Cholesterol,254
+107,Disease,1
+107,Exercise Induced Angina,0
+107,Fasting Blood Sugar,0
+107,Max Heart Rate Achieved,159
+107,Num Major Vessels,0
+107,Resting Blood Pressure,110
+107,Resting Electrocardiogram,0
+107,Sex,0
+107,St Depression,0
+107,St Slope,2
+107,Thalassemia,2
+108,Age,64
+108,Chest Pain Type,0
+108,Cholesterol,325
+108,Disease,1
+108,Exercise Induced Angina,1
+108,Fasting Blood Sugar,0
+108,Max Heart Rate Achieved,154
+108,Num Major Vessels,0
+108,Resting Blood Pressure,180
+108,Resting Electrocardiogram,1
+108,Sex,0
+108,St Depression,0
+108,St Slope,2
+108,Thalassemia,2
+109,Age,57
+109,Chest Pain Type,2
+109,Cholesterol,126
+109,Disease,1
+109,Exercise Induced Angina,0
+109,Fasting Blood Sugar,1
+109,Max Heart Rate Achieved,173
+109,Num Major Vessels,1
+109,Resting Blood Pressure,150
+109,Resting Electrocardiogram,1
+109,Sex,1
+109,St Depression,0.2
+109,St Slope,2
+109,Thalassemia,3
+110,Age,64
+110,Chest Pain Type,2
+110,Cholesterol,313
+110,Disease,1
+110,Exercise Induced Angina,0
+110,Fasting Blood Sugar,0
+110,Max Heart Rate Achieved,133
+110,Num Major Vessels,0
+110,Resting Blood Pressure,140
+110,Resting Electrocardiogram,1
+110,Sex,0
+110,St Depression,0.2
+110,St Slope,2
+110,Thalassemia,3
+111,Age,43
+111,Chest Pain Type,0
+111,Cholesterol,211
+111,Disease,1
+111,Exercise Induced Angina,0
+111,Fasting Blood Sugar,0
+111,Max Heart Rate Achieved,161
+111,Num Major Vessels,0
+111,Resting Blood Pressure,110
+111,Resting Electrocardiogram,1
+111,Sex,1
+111,St Depression,0
+111,St Slope,2
+111,Thalassemia,3
+112,Age,55
+112,Chest Pain Type,1
+112,Cholesterol,262
+112,Disease,1
+112,Exercise Induced Angina,0
+112,Fasting Blood Sugar,0
+112,Max Heart Rate Achieved,155
+112,Num Major Vessels,0
+112,Resting Blood Pressure,130
+112,Resting Electrocardiogram,1
+112,Sex,1
+112,St Depression,0
+112,St Slope,2
+112,Thalassemia,2
+113,Age,37
+113,Chest Pain Type,2
+113,Cholesterol,215
+113,Disease,1
+113,Exercise Induced Angina,0
+113,Fasting Blood Sugar,0
+113,Max Heart Rate Achieved,170
+113,Num Major Vessels,0
+113,Resting Blood Pressure,120
+113,Resting Electrocardiogram,1
+113,Sex,0
+113,St Depression,0
+113,St Slope,2
+113,Thalassemia,2
+114,Age,41
+114,Chest Pain Type,2
+114,Cholesterol,214
+114,Disease,1
+114,Exercise Induced Angina,0
+114,Fasting Blood Sugar,0
+114,Max Heart Rate Achieved,168
+114,Num Major Vessels,0
+114,Resting Blood Pressure,130
+114,Resting Electrocardiogram,0
+114,Sex,1
+114,St Depression,2
+114,St Slope,1
+114,Thalassemia,2
+115,Age,56
+115,Chest Pain Type,3
+115,Cholesterol,193
+115,Disease,1
+115,Exercise Induced Angina,0
+115,Fasting Blood Sugar,0
+115,Max Heart Rate Achieved,162
+115,Num Major Vessels,0
+115,Resting Blood Pressure,120
+115,Resting Electrocardiogram,0
+115,Sex,1
+115,St Depression,1.9
+115,St Slope,1
+115,Thalassemia,3
+116,Age,46
+116,Chest Pain Type,1
+116,Cholesterol,204
+116,Disease,1
+116,Exercise Induced Angina,0
+116,Fasting Blood Sugar,0
+116,Max Heart Rate Achieved,172
+116,Num Major Vessels,0
+116,Resting Blood Pressure,105
+116,Resting Electrocardiogram,1
+116,Sex,0
+116,St Depression,0
+116,St Slope,2
+116,Thalassemia,2
+117,Age,46
+117,Chest Pain Type,0
+117,Cholesterol,243
+117,Disease,1
+117,Exercise Induced Angina,1
+117,Fasting Blood Sugar,0
+117,Max Heart Rate Achieved,152
+117,Num Major Vessels,0
+117,Resting Blood Pressure,138
+117,Resting Electrocardiogram,0
+117,Sex,0
+117,St Depression,0
+117,St Slope,1
+117,Thalassemia,2
+118,Age,64
+118,Chest Pain Type,0
+118,Cholesterol,303
+118,Disease,1
+118,Exercise Induced Angina,0
+118,Fasting Blood Sugar,0
+118,Max Heart Rate Achieved,122
+118,Num Major Vessels,2
+118,Resting Blood Pressure,130
+118,Resting Electrocardiogram,1
+118,Sex,0
+118,St Depression,2
+118,St Slope,1
+118,Thalassemia,2
+119,Age,59
+119,Chest Pain Type,0
+119,Cholesterol,271
+119,Disease,1
+119,Exercise Induced Angina,0
+119,Fasting Blood Sugar,0
+119,Max Heart Rate Achieved,182
+119,Num Major Vessels,0
+119,Resting Blood Pressure,138
+119,Resting Electrocardiogram,0
+119,Sex,1
+119,St Depression,0
+119,St Slope,2
+119,Thalassemia,2
+120,Age,41
+120,Chest Pain Type,2
+120,Cholesterol,268
+120,Disease,1
+120,Exercise Induced Angina,1
+120,Fasting Blood Sugar,0
+120,Max Heart Rate Achieved,172
+120,Num Major Vessels,0
+120,Resting Blood Pressure,112
+120,Resting Electrocardiogram,0
+120,Sex,0
+120,St Depression,0
+120,St Slope,2
+120,Thalassemia,2
+121,Age,54
+121,Chest Pain Type,2
+121,Cholesterol,267
+121,Disease,1
+121,Exercise Induced Angina,0
+121,Fasting Blood Sugar,0
+121,Max Heart Rate Achieved,167
+121,Num Major Vessels,0
+121,Resting Blood Pressure,108
+121,Resting Electrocardiogram,0
+121,Sex,0
+121,St Depression,0
+121,St Slope,2
+121,Thalassemia,2
+122,Age,39
+122,Chest Pain Type,2
+122,Cholesterol,199
+122,Disease,1
+122,Exercise Induced Angina,0
+122,Fasting Blood Sugar,0
+122,Max Heart Rate Achieved,179
+122,Num Major Vessels,0
+122,Resting Blood Pressure,94
+122,Resting Electrocardiogram,1
+122,Sex,0
+122,St Depression,0
+122,St Slope,2
+122,Thalassemia,2
+123,Age,34
+123,Chest Pain Type,1
+123,Cholesterol,210
+123,Disease,1
+123,Exercise Induced Angina,0
+123,Fasting Blood Sugar,0
+123,Max Heart Rate Achieved,192
+123,Num Major Vessels,0
+123,Resting Blood Pressure,118
+123,Resting Electrocardiogram,1
+123,Sex,0
+123,St Depression,0.7
+123,St Slope,2
+123,Thalassemia,2
+124,Age,47
+124,Chest Pain Type,0
+124,Cholesterol,204
+124,Disease,1
+124,Exercise Induced Angina,0
+124,Fasting Blood Sugar,0
+124,Max Heart Rate Achieved,143
+124,Num Major Vessels,0
+124,Resting Blood Pressure,112
+124,Resting Electrocardiogram,1
+124,Sex,1
+124,St Depression,0.1
+124,St Slope,2
+124,Thalassemia,2
+125,Age,67
+125,Chest Pain Type,2
+125,Cholesterol,277
+125,Disease,1
+125,Exercise Induced Angina,0
+125,Fasting Blood Sugar,0
+125,Max Heart Rate Achieved,172
+125,Num Major Vessels,1
+125,Resting Blood Pressure,152
+125,Resting Electrocardiogram,1
+125,Sex,0
+125,St Depression,0
+125,St Slope,2
+125,Thalassemia,2
+126,Age,52
+126,Chest Pain Type,2
+126,Cholesterol,196
+126,Disease,1
+126,Exercise Induced Angina,0
+126,Fasting Blood Sugar,0
+126,Max Heart Rate Achieved,169
+126,Num Major Vessels,0
+126,Resting Blood Pressure,136
+126,Resting Electrocardiogram,0
+126,Sex,0
+126,St Depression,0.1
+126,St Slope,1
+126,Thalassemia,2
+127,Age,74
+127,Chest Pain Type,1
+127,Cholesterol,269
+127,Disease,1
+127,Exercise Induced Angina,1
+127,Fasting Blood Sugar,0
+127,Max Heart Rate Achieved,121
+127,Num Major Vessels,1
+127,Resting Blood Pressure,120
+127,Resting Electrocardiogram,0
+127,Sex,0
+127,St Depression,0.2
+127,St Slope,2
+127,Thalassemia,2
+128,Age,54
+128,Chest Pain Type,2
+128,Cholesterol,201
+128,Disease,1
+128,Exercise Induced Angina,0
+128,Fasting Blood Sugar,0
+128,Max Heart Rate Achieved,163
+128,Num Major Vessels,1
+128,Resting Blood Pressure,160
+128,Resting Electrocardiogram,1
+128,Sex,0
+128,St Depression,0
+128,St Slope,2
+128,Thalassemia,2
+129,Age,49
+129,Chest Pain Type,1
+129,Cholesterol,271
+129,Disease,1
+129,Exercise Induced Angina,0
+129,Fasting Blood Sugar,0
+129,Max Heart Rate Achieved,162
+129,Num Major Vessels,0
+129,Resting Blood Pressure,134
+129,Resting Electrocardiogram,1
+129,Sex,0
+129,St Depression,0
+129,St Slope,1
+129,Thalassemia,2
+130,Age,42
+130,Chest Pain Type,1
+130,Cholesterol,295
+130,Disease,1
+130,Exercise Induced Angina,0
+130,Fasting Blood Sugar,0
+130,Max Heart Rate Achieved,162
+130,Num Major Vessels,0
+130,Resting Blood Pressure,120
+130,Resting Electrocardiogram,1
+130,Sex,1
+130,St Depression,0
+130,St Slope,2
+130,Thalassemia,2
+131,Age,41
+131,Chest Pain Type,1
+131,Cholesterol,235
+131,Disease,1
+131,Exercise Induced Angina,0
+131,Fasting Blood Sugar,0
+131,Max Heart Rate Achieved,153
+131,Num Major Vessels,0
+131,Resting Blood Pressure,110
+131,Resting Electrocardiogram,1
+131,Sex,1
+131,St Depression,0
+131,St Slope,2
+131,Thalassemia,2
+132,Age,41
+132,Chest Pain Type,1
+132,Cholesterol,306
+132,Disease,1
+132,Exercise Induced Angina,0
+132,Fasting Blood Sugar,0
+132,Max Heart Rate Achieved,163
+132,Num Major Vessels,0
+132,Resting Blood Pressure,126
+132,Resting Electrocardiogram,1
+132,Sex,0
+132,St Depression,0
+132,St Slope,2
+132,Thalassemia,2
+133,Age,49
+133,Chest Pain Type,0
+133,Cholesterol,269
+133,Disease,1
+133,Exercise Induced Angina,0
+133,Fasting Blood Sugar,0
+133,Max Heart Rate Achieved,163
+133,Num Major Vessels,0
+133,Resting Blood Pressure,130
+133,Resting Electrocardiogram,1
+133,Sex,0
+133,St Depression,0
+133,St Slope,2
+133,Thalassemia,2
+134,Age,60
+134,Chest Pain Type,2
+134,Cholesterol,178
+134,Disease,1
+134,Exercise Induced Angina,0
+134,Fasting Blood Sugar,1
+134,Max Heart Rate Achieved,96
+134,Num Major Vessels,0
+134,Resting Blood Pressure,120
+134,Resting Electrocardiogram,1
+134,Sex,0
+134,St Depression,0
+134,St Slope,2
+134,Thalassemia,2
+135,Age,62
+135,Chest Pain Type,1
+135,Cholesterol,208
+135,Disease,1
+135,Exercise Induced Angina,0
+135,Fasting Blood Sugar,1
+135,Max Heart Rate Achieved,140
+135,Num Major Vessels,0
+135,Resting Blood Pressure,128
+135,Resting Electrocardiogram,0
+135,Sex,1
+135,St Depression,0
+135,St Slope,2
+135,Thalassemia,2
+136,Age,57
+136,Chest Pain Type,0
+136,Cholesterol,201
+136,Disease,1
+136,Exercise Induced Angina,1
+136,Fasting Blood Sugar,0
+136,Max Heart Rate Achieved,126
+136,Num Major Vessels,0
+136,Resting Blood Pressure,110
+136,Resting Electrocardiogram,1
+136,Sex,1
+136,St Depression,1.5
+136,St Slope,1
+136,Thalassemia,1
+137,Age,64
+137,Chest Pain Type,0
+137,Cholesterol,263
+137,Disease,1
+137,Exercise Induced Angina,1
+137,Fasting Blood Sugar,0
+137,Max Heart Rate Achieved,105
+137,Num Major Vessels,1
+137,Resting Blood Pressure,128
+137,Resting Electrocardiogram,1
+137,Sex,1
+137,St Depression,0.2
+137,St Slope,1
+137,Thalassemia,3
+138,Age,51
+138,Chest Pain Type,2
+138,Cholesterol,295
+138,Disease,1
+138,Exercise Induced Angina,0
+138,Fasting Blood Sugar,0
+138,Max Heart Rate Achieved,157
+138,Num Major Vessels,0
+138,Resting Blood Pressure,120
+138,Resting Electrocardiogram,0
+138,Sex,0
+138,St Depression,0.6
+138,St Slope,2
+138,Thalassemia,2
+139,Age,43
+139,Chest Pain Type,0
+139,Cholesterol,303
+139,Disease,1
+139,Exercise Induced Angina,0
+139,Fasting Blood Sugar,0
+139,Max Heart Rate Achieved,181
+139,Num Major Vessels,0
+139,Resting Blood Pressure,115
+139,Resting Electrocardiogram,1
+139,Sex,1
+139,St Depression,1.2
+139,St Slope,1
+139,Thalassemia,2
+140,Age,42
+140,Chest Pain Type,2
+140,Cholesterol,209
+140,Disease,1
+140,Exercise Induced Angina,0
+140,Fasting Blood Sugar,0
+140,Max Heart Rate Achieved,173
+140,Num Major Vessels,0
+140,Resting Blood Pressure,120
+140,Resting Electrocardiogram,1
+140,Sex,0
+140,St Depression,0
+140,St Slope,1
+140,Thalassemia,2
+141,Age,67
+141,Chest Pain Type,0
+141,Cholesterol,223
+141,Disease,1
+141,Exercise Induced Angina,0
+141,Fasting Blood Sugar,0
+141,Max Heart Rate Achieved,142
+141,Num Major Vessels,2
+141,Resting Blood Pressure,106
+141,Resting Electrocardiogram,1
+141,Sex,0
+141,St Depression,0.3
+141,St Slope,2
+141,Thalassemia,2
+142,Age,76
+142,Chest Pain Type,2
+142,Cholesterol,197
+142,Disease,1
+142,Exercise Induced Angina,0
+142,Fasting Blood Sugar,0
+142,Max Heart Rate Achieved,116
+142,Num Major Vessels,0
+142,Resting Blood Pressure,140
+142,Resting Electrocardiogram,2
+142,Sex,0
+142,St Depression,1.1
+142,St Slope,1
+142,Thalassemia,2
+143,Age,70
+143,Chest Pain Type,1
+143,Cholesterol,245
+143,Disease,1
+143,Exercise Induced Angina,0
+143,Fasting Blood Sugar,0
+143,Max Heart Rate Achieved,143
+143,Num Major Vessels,0
+143,Resting Blood Pressure,156
+143,Resting Electrocardiogram,0
+143,Sex,1
+143,St Depression,0
+143,St Slope,2
+143,Thalassemia,2
+144,Age,44
+144,Chest Pain Type,2
+144,Cholesterol,242
+144,Disease,1
+144,Exercise Induced Angina,0
+144,Fasting Blood Sugar,0
+144,Max Heart Rate Achieved,149
+144,Num Major Vessels,1
+144,Resting Blood Pressure,118
+144,Resting Electrocardiogram,1
+144,Sex,0
+144,St Depression,0.3
+144,St Slope,1
+144,Thalassemia,2
+145,Age,60
+145,Chest Pain Type,3
+145,Cholesterol,240
+145,Disease,1
+145,Exercise Induced Angina,0
+145,Fasting Blood Sugar,0
+145,Max Heart Rate Achieved,171
+145,Num Major Vessels,0
+145,Resting Blood Pressure,150
+145,Resting Electrocardiogram,1
+145,Sex,0
+145,St Depression,0.9
+145,St Slope,2
+145,Thalassemia,2
+146,Age,44
+146,Chest Pain Type,2
+146,Cholesterol,226
+146,Disease,1
+146,Exercise Induced Angina,0
+146,Fasting Blood Sugar,0
+146,Max Heart Rate Achieved,169
+146,Num Major Vessels,0
+146,Resting Blood Pressure,120
+146,Resting Electrocardiogram,1
+146,Sex,1
+146,St Depression,0
+146,St Slope,2
+146,Thalassemia,2
+147,Age,42
+147,Chest Pain Type,2
+147,Cholesterol,180
+147,Disease,1
+147,Exercise Induced Angina,0
+147,Fasting Blood Sugar,0
+147,Max Heart Rate Achieved,150
+147,Num Major Vessels,0
+147,Resting Blood Pressure,130
+147,Resting Electrocardiogram,1
+147,Sex,1
+147,St Depression,0
+147,St Slope,2
+147,Thalassemia,2
+148,Age,66
+148,Chest Pain Type,0
+148,Cholesterol,228
+148,Disease,1
+148,Exercise Induced Angina,0
+148,Fasting Blood Sugar,0
+148,Max Heart Rate Achieved,138
+148,Num Major Vessels,0
+148,Resting Blood Pressure,160
+148,Resting Electrocardiogram,0
+148,Sex,1
+148,St Depression,2.3
+148,St Slope,2
+148,Thalassemia,1
+149,Age,71
+149,Chest Pain Type,0
+149,Cholesterol,149
+149,Disease,1
+149,Exercise Induced Angina,0
+149,Fasting Blood Sugar,0
+149,Max Heart Rate Achieved,125
+149,Num Major Vessels,0
+149,Resting Blood Pressure,112
+149,Resting Electrocardiogram,1
+149,Sex,0
+149,St Depression,1.6
+149,St Slope,1
+149,Thalassemia,2
+150,Age,64
+150,Chest Pain Type,3
+150,Cholesterol,227
+150,Disease,1
+150,Exercise Induced Angina,0
+150,Fasting Blood Sugar,0
+150,Max Heart Rate Achieved,155
+150,Num Major Vessels,0
+150,Resting Blood Pressure,170
+150,Resting Electrocardiogram,0
+150,Sex,1
+150,St Depression,0.6
+150,St Slope,1
+150,Thalassemia,3
+151,Age,66
+151,Chest Pain Type,2
+151,Cholesterol,278
+151,Disease,1
+151,Exercise Induced Angina,0
+151,Fasting Blood Sugar,0
+151,Max Heart Rate Achieved,152
+151,Num Major Vessels,1
+151,Resting Blood Pressure,146
+151,Resting Electrocardiogram,0
+151,Sex,0
+151,St Depression,0
+151,St Slope,1
+151,Thalassemia,2
+152,Age,39
+152,Chest Pain Type,2
+152,Cholesterol,220
+152,Disease,1
+152,Exercise Induced Angina,0
+152,Fasting Blood Sugar,0
+152,Max Heart Rate Achieved,152
+152,Num Major Vessels,0
+152,Resting Blood Pressure,138
+152,Resting Electrocardiogram,1
+152,Sex,0
+152,St Depression,0
+152,St Slope,1
+152,Thalassemia,2
+153,Age,58
+153,Chest Pain Type,0
+153,Cholesterol,197
+153,Disease,1
+153,Exercise Induced Angina,0
+153,Fasting Blood Sugar,0
+153,Max Heart Rate Achieved,131
+153,Num Major Vessels,0
+153,Resting Blood Pressure,130
+153,Resting Electrocardiogram,1
+153,Sex,0
+153,St Depression,0.6
+153,St Slope,1
+153,Thalassemia,2
+154,Age,47
+154,Chest Pain Type,2
+154,Cholesterol,253
+154,Disease,1
+154,Exercise Induced Angina,0
+154,Fasting Blood Sugar,0
+154,Max Heart Rate Achieved,179
+154,Num Major Vessels,0
+154,Resting Blood Pressure,130
+154,Resting Electrocardiogram,1
+154,Sex,1
+154,St Depression,0
+154,St Slope,2
+154,Thalassemia,2
+155,Age,35
+155,Chest Pain Type,1
+155,Cholesterol,192
+155,Disease,1
+155,Exercise Induced Angina,0
+155,Fasting Blood Sugar,0
+155,Max Heart Rate Achieved,174
+155,Num Major Vessels,0
+155,Resting Blood Pressure,122
+155,Resting Electrocardiogram,1
+155,Sex,1
+155,St Depression,0
+155,St Slope,2
+155,Thalassemia,2
+156,Age,56
+156,Chest Pain Type,1
+156,Cholesterol,221
+156,Disease,1
+156,Exercise Induced Angina,0
+156,Fasting Blood Sugar,0
+156,Max Heart Rate Achieved,163
+156,Num Major Vessels,0
+156,Resting Blood Pressure,130
+156,Resting Electrocardiogram,0
+156,Sex,1
+156,St Depression,0
+156,St Slope,2
+156,Thalassemia,3
+157,Age,56
+157,Chest Pain Type,1
+157,Cholesterol,240
+157,Disease,1
+157,Exercise Induced Angina,0
+157,Fasting Blood Sugar,0
+157,Max Heart Rate Achieved,169
+157,Num Major Vessels,0
+157,Resting Blood Pressure,120
+157,Resting Electrocardiogram,1
+157,Sex,1
+157,St Depression,0
+157,St Slope,0
+157,Thalassemia,2
+158,Age,55
+158,Chest Pain Type,1
+158,Cholesterol,342
+158,Disease,1
+158,Exercise Induced Angina,0
+158,Fasting Blood Sugar,0
+158,Max Heart Rate Achieved,166
+158,Num Major Vessels,0
+158,Resting Blood Pressure,132
+158,Resting Electrocardiogram,1
+158,Sex,0
+158,St Depression,1.2
+158,St Slope,2
+158,Thalassemia,2
+159,Age,41
+159,Chest Pain Type,1
+159,Cholesterol,157
+159,Disease,1
+159,Exercise Induced Angina,0
+159,Fasting Blood Sugar,0
+159,Max Heart Rate Achieved,182
+159,Num Major Vessels,0
+159,Resting Blood Pressure,120
+159,Resting Electrocardiogram,1
+159,Sex,1
+159,St Depression,0
+159,St Slope,2
+159,Thalassemia,2
+160,Age,67
+160,Chest Pain Type,0
+160,Cholesterol,286
+160,Disease,0
+160,Exercise Induced Angina,1
+160,Fasting Blood Sugar,0
+160,Max Heart Rate Achieved,108
+160,Num Major Vessels,3
+160,Resting Blood Pressure,160
+160,Resting Electrocardiogram,0
+160,Sex,1
+160,St Depression,1.5
+160,St Slope,1
+160,Thalassemia,2
+161,Age,67
+161,Chest Pain Type,0
+161,Cholesterol,229
+161,Disease,0
+161,Exercise Induced Angina,1
+161,Fasting Blood Sugar,0
+161,Max Heart Rate Achieved,129
+161,Num Major Vessels,2
+161,Resting Blood Pressure,120
+161,Resting Electrocardiogram,0
+161,Sex,1
+161,St Depression,2.6
+161,St Slope,1
+161,Thalassemia,3
+162,Age,62
+162,Chest Pain Type,0
+162,Cholesterol,268
+162,Disease,0
+162,Exercise Induced Angina,0
+162,Fasting Blood Sugar,0
+162,Max Heart Rate Achieved,160
+162,Num Major Vessels,2
+162,Resting Blood Pressure,140
+162,Resting Electrocardiogram,0
+162,Sex,0
+162,St Depression,3.6
+162,St Slope,0
+162,Thalassemia,2
+163,Age,63
+163,Chest Pain Type,0
+163,Cholesterol,254
+163,Disease,0
+163,Exercise Induced Angina,0
+163,Fasting Blood Sugar,0
+163,Max Heart Rate Achieved,147
+163,Num Major Vessels,1
+163,Resting Blood Pressure,130
+163,Resting Electrocardiogram,0
+163,Sex,1
+163,St Depression,1.4
+163,St Slope,1
+163,Thalassemia,3
+164,Age,53
+164,Chest Pain Type,0
+164,Cholesterol,203
+164,Disease,0
+164,Exercise Induced Angina,1
+164,Fasting Blood Sugar,1
+164,Max Heart Rate Achieved,155
+164,Num Major Vessels,0
+164,Resting Blood Pressure,140
+164,Resting Electrocardiogram,0
+164,Sex,1
+164,St Depression,3.1
+164,St Slope,0
+164,Thalassemia,3
+165,Age,56
+165,Chest Pain Type,2
+165,Cholesterol,256
+165,Disease,0
+165,Exercise Induced Angina,1
+165,Fasting Blood Sugar,1
+165,Max Heart Rate Achieved,142
+165,Num Major Vessels,1
+165,Resting Blood Pressure,130
+165,Resting Electrocardiogram,0
+165,Sex,1
+165,St Depression,0.6
+165,St Slope,1
+165,Thalassemia,1
+166,Age,48
+166,Chest Pain Type,1
+166,Cholesterol,229
+166,Disease,0
+166,Exercise Induced Angina,0
+166,Fasting Blood Sugar,0
+166,Max Heart Rate Achieved,168
+166,Num Major Vessels,0
+166,Resting Blood Pressure,110
+166,Resting Electrocardiogram,1
+166,Sex,1
+166,St Depression,1
+166,St Slope,0
+166,Thalassemia,3
+167,Age,58
+167,Chest Pain Type,1
+167,Cholesterol,284
+167,Disease,0
+167,Exercise Induced Angina,0
+167,Fasting Blood Sugar,0
+167,Max Heart Rate Achieved,160
+167,Num Major Vessels,0
+167,Resting Blood Pressure,120
+167,Resting Electrocardiogram,0
+167,Sex,1
+167,St Depression,1.8
+167,St Slope,1
+167,Thalassemia,2
+168,Age,58
+168,Chest Pain Type,2
+168,Cholesterol,224
+168,Disease,0
+168,Exercise Induced Angina,0
+168,Fasting Blood Sugar,0
+168,Max Heart Rate Achieved,173
+168,Num Major Vessels,2
+168,Resting Blood Pressure,132
+168,Resting Electrocardiogram,0
+168,Sex,1
+168,St Depression,3.2
+168,St Slope,2
+168,Thalassemia,3
+169,Age,60
+169,Chest Pain Type,0
+169,Cholesterol,206
+169,Disease,0
+169,Exercise Induced Angina,1
+169,Fasting Blood Sugar,0
+169,Max Heart Rate Achieved,132
+169,Num Major Vessels,2
+169,Resting Blood Pressure,130
+169,Resting Electrocardiogram,0
+169,Sex,1
+169,St Depression,2.4
+169,St Slope,1
+169,Thalassemia,3
+170,Age,40
+170,Chest Pain Type,0
+170,Cholesterol,167
+170,Disease,0
+170,Exercise Induced Angina,1
+170,Fasting Blood Sugar,0
+170,Max Heart Rate Achieved,114
+170,Num Major Vessels,0
+170,Resting Blood Pressure,110
+170,Resting Electrocardiogram,0
+170,Sex,1
+170,St Depression,2
+170,St Slope,1
+170,Thalassemia,3
+171,Age,60
+171,Chest Pain Type,0
+171,Cholesterol,230
+171,Disease,0
+171,Exercise Induced Angina,1
+171,Fasting Blood Sugar,1
+171,Max Heart Rate Achieved,160
+171,Num Major Vessels,2
+171,Resting Blood Pressure,117
+171,Resting Electrocardiogram,1
+171,Sex,1
+171,St Depression,1.4
+171,St Slope,2
+171,Thalassemia,3
+172,Age,64
+172,Chest Pain Type,2
+172,Cholesterol,335
+172,Disease,0
+172,Exercise Induced Angina,0
+172,Fasting Blood Sugar,0
+172,Max Heart Rate Achieved,158
+172,Num Major Vessels,0
+172,Resting Blood Pressure,140
+172,Resting Electrocardiogram,1
+172,Sex,1
+172,St Depression,0
+172,St Slope,2
+172,Thalassemia,2
+173,Age,43
+173,Chest Pain Type,0
+173,Cholesterol,177
+173,Disease,0
+173,Exercise Induced Angina,1
+173,Fasting Blood Sugar,0
+173,Max Heart Rate Achieved,120
+173,Num Major Vessels,0
+173,Resting Blood Pressure,120
+173,Resting Electrocardiogram,0
+173,Sex,1
+173,St Depression,2.5
+173,St Slope,1
+173,Thalassemia,3
+174,Age,57
+174,Chest Pain Type,0
+174,Cholesterol,276
+174,Disease,0
+174,Exercise Induced Angina,1
+174,Fasting Blood Sugar,0
+174,Max Heart Rate Achieved,112
+174,Num Major Vessels,1
+174,Resting Blood Pressure,150
+174,Resting Electrocardiogram,0
+174,Sex,1
+174,St Depression,0.6
+174,St Slope,1
+174,Thalassemia,1
+175,Age,55
+175,Chest Pain Type,0
+175,Cholesterol,353
+175,Disease,0
+175,Exercise Induced Angina,1
+175,Fasting Blood Sugar,0
+175,Max Heart Rate Achieved,132
+175,Num Major Vessels,1
+175,Resting Blood Pressure,132
+175,Resting Electrocardiogram,1
+175,Sex,1
+175,St Depression,1.2
+175,St Slope,1
+175,Thalassemia,3
+176,Age,65
+176,Chest Pain Type,0
+176,Cholesterol,225
+176,Disease,0
+176,Exercise Induced Angina,0
+176,Fasting Blood Sugar,0
+176,Max Heart Rate Achieved,114
+176,Num Major Vessels,3
+176,Resting Blood Pressure,150
+176,Resting Electrocardiogram,0
+176,Sex,0
+176,St Depression,1
+176,St Slope,1
+176,Thalassemia,3
+177,Age,61
+177,Chest Pain Type,0
+177,Cholesterol,330
+177,Disease,0
+177,Exercise Induced Angina,0
+177,Fasting Blood Sugar,0
+177,Max Heart Rate Achieved,169
+177,Num Major Vessels,0
+177,Resting Blood Pressure,130
+177,Resting Electrocardiogram,0
+177,Sex,0
+177,St Depression,0
+177,St Slope,2
+177,Thalassemia,2
+178,Age,58
+178,Chest Pain Type,2
+178,Cholesterol,230
+178,Disease,0
+178,Exercise Induced Angina,0
+178,Fasting Blood Sugar,0
+178,Max Heart Rate Achieved,165
+178,Num Major Vessels,1
+178,Resting Blood Pressure,112
+178,Resting Electrocardiogram,0
+178,Sex,1
+178,St Depression,2.5
+178,St Slope,1
+178,Thalassemia,3
+179,Age,50
+179,Chest Pain Type,0
+179,Cholesterol,243
+179,Disease,0
+179,Exercise Induced Angina,0
+179,Fasting Blood Sugar,0
+179,Max Heart Rate Achieved,128
+179,Num Major Vessels,0
+179,Resting Blood Pressure,150
+179,Resting Electrocardiogram,0
+179,Sex,1
+179,St Depression,2.6
+179,St Slope,1
+179,Thalassemia,3
+180,Age,44
+180,Chest Pain Type,0
+180,Cholesterol,290
+180,Disease,0
+180,Exercise Induced Angina,0
+180,Fasting Blood Sugar,0
+180,Max Heart Rate Achieved,153
+180,Num Major Vessels,1
+180,Resting Blood Pressure,112
+180,Resting Electrocardiogram,0
+180,Sex,1
+180,St Depression,0
+180,St Slope,2
+180,Thalassemia,2
+181,Age,60
+181,Chest Pain Type,0
+181,Cholesterol,253
+181,Disease,0
+181,Exercise Induced Angina,1
+181,Fasting Blood Sugar,0
+181,Max Heart Rate Achieved,144
+181,Num Major Vessels,1
+181,Resting Blood Pressure,130
+181,Resting Electrocardiogram,1
+181,Sex,1
+181,St Depression,1.4
+181,St Slope,2
+181,Thalassemia,3
+182,Age,54
+182,Chest Pain Type,0
+182,Cholesterol,266
+182,Disease,0
+182,Exercise Induced Angina,1
+182,Fasting Blood Sugar,0
+182,Max Heart Rate Achieved,109
+182,Num Major Vessels,1
+182,Resting Blood Pressure,124
+182,Resting Electrocardiogram,0
+182,Sex,1
+182,St Depression,2.2
+182,St Slope,1
+182,Thalassemia,3
+183,Age,50
+183,Chest Pain Type,2
+183,Cholesterol,233
+183,Disease,0
+183,Exercise Induced Angina,0
+183,Fasting Blood Sugar,0
+183,Max Heart Rate Achieved,163
+183,Num Major Vessels,1
+183,Resting Blood Pressure,140
+183,Resting Electrocardiogram,1
+183,Sex,1
+183,St Depression,0.6
+183,St Slope,1
+183,Thalassemia,3
+184,Age,41
+184,Chest Pain Type,0
+184,Cholesterol,172
+184,Disease,0
+184,Exercise Induced Angina,0
+184,Fasting Blood Sugar,0
+184,Max Heart Rate Achieved,158
+184,Num Major Vessels,0
+184,Resting Blood Pressure,110
+184,Resting Electrocardiogram,0
+184,Sex,1
+184,St Depression,0
+184,St Slope,2
+184,Thalassemia,3
+185,Age,51
+185,Chest Pain Type,0
+185,Cholesterol,305
+185,Disease,0
+185,Exercise Induced Angina,1
+185,Fasting Blood Sugar,0
+185,Max Heart Rate Achieved,142
+185,Num Major Vessels,0
+185,Resting Blood Pressure,130
+185,Resting Electrocardiogram,1
+185,Sex,0
+185,St Depression,1.2
+185,St Slope,1
+185,Thalassemia,3
+186,Age,58
+186,Chest Pain Type,0
+186,Cholesterol,216
+186,Disease,0
+186,Exercise Induced Angina,1
+186,Fasting Blood Sugar,0
+186,Max Heart Rate Achieved,131
+186,Num Major Vessels,3
+186,Resting Blood Pressure,128
+186,Resting Electrocardiogram,0
+186,Sex,1
+186,St Depression,2.2
+186,St Slope,1
+186,Thalassemia,3
+187,Age,54
+187,Chest Pain Type,0
+187,Cholesterol,188
+187,Disease,0
+187,Exercise Induced Angina,0
+187,Fasting Blood Sugar,0
+187,Max Heart Rate Achieved,113
+187,Num Major Vessels,1
+187,Resting Blood Pressure,120
+187,Resting Electrocardiogram,1
+187,Sex,1
+187,St Depression,1.4
+187,St Slope,1
+187,Thalassemia,3
+188,Age,60
+188,Chest Pain Type,0
+188,Cholesterol,282
+188,Disease,0
+188,Exercise Induced Angina,1
+188,Fasting Blood Sugar,0
+188,Max Heart Rate Achieved,142
+188,Num Major Vessels,2
+188,Resting Blood Pressure,145
+188,Resting Electrocardiogram,0
+188,Sex,1
+188,St Depression,2.8
+188,St Slope,1
+188,Thalassemia,3
+189,Age,60
+189,Chest Pain Type,2
+189,Cholesterol,185
+189,Disease,0
+189,Exercise Induced Angina,0
+189,Fasting Blood Sugar,0
+189,Max Heart Rate Achieved,155
+189,Num Major Vessels,0
+189,Resting Blood Pressure,140
+189,Resting Electrocardiogram,0
+189,Sex,1
+189,St Depression,3
+189,St Slope,1
+189,Thalassemia,2
+190,Age,59
+190,Chest Pain Type,0
+190,Cholesterol,326
+190,Disease,0
+190,Exercise Induced Angina,1
+190,Fasting Blood Sugar,0
+190,Max Heart Rate Achieved,140
+190,Num Major Vessels,0
+190,Resting Blood Pressure,170
+190,Resting Electrocardiogram,0
+190,Sex,1
+190,St Depression,3.4
+190,St Slope,0
+190,Thalassemia,3
+191,Age,46
+191,Chest Pain Type,2
+191,Cholesterol,231
+191,Disease,0
+191,Exercise Induced Angina,0
+191,Fasting Blood Sugar,0
+191,Max Heart Rate Achieved,147
+191,Num Major Vessels,0
+191,Resting Blood Pressure,150
+191,Resting Electrocardiogram,1
+191,Sex,1
+191,St Depression,3.6
+191,St Slope,1
+191,Thalassemia,2
+192,Age,67
+192,Chest Pain Type,0
+192,Cholesterol,254
+192,Disease,0
+192,Exercise Induced Angina,0
+192,Fasting Blood Sugar,1
+192,Max Heart Rate Achieved,163
+192,Num Major Vessels,2
+192,Resting Blood Pressure,125
+192,Resting Electrocardiogram,1
+192,Sex,1
+192,St Depression,0.2
+192,St Slope,1
+192,Thalassemia,3
+193,Age,62
+193,Chest Pain Type,0
+193,Cholesterol,267
+193,Disease,0
+193,Exercise Induced Angina,1
+193,Fasting Blood Sugar,0
+193,Max Heart Rate Achieved,99
+193,Num Major Vessels,2
+193,Resting Blood Pressure,120
+193,Resting Electrocardiogram,1
+193,Sex,1
+193,St Depression,1.8
+193,St Slope,1
+193,Thalassemia,3
+194,Age,65
+194,Chest Pain Type,0
+194,Cholesterol,248
+194,Disease,0
+194,Exercise Induced Angina,0
+194,Fasting Blood Sugar,0
+194,Max Heart Rate Achieved,158
+194,Num Major Vessels,2
+194,Resting Blood Pressure,110
+194,Resting Electrocardiogram,0
+194,Sex,1
+194,St Depression,0.6
+194,St Slope,2
+194,Thalassemia,1
+195,Age,44
+195,Chest Pain Type,0
+195,Cholesterol,197
+195,Disease,0
+195,Exercise Induced Angina,0
+195,Fasting Blood Sugar,0
+195,Max Heart Rate Achieved,177
+195,Num Major Vessels,1
+195,Resting Blood Pressure,110
+195,Resting Electrocardiogram,0
+195,Sex,1
+195,St Depression,0
+195,St Slope,2
+195,Thalassemia,2
+196,Age,60
+196,Chest Pain Type,0
+196,Cholesterol,258
+196,Disease,0
+196,Exercise Induced Angina,1
+196,Fasting Blood Sugar,0
+196,Max Heart Rate Achieved,141
+196,Num Major Vessels,1
+196,Resting Blood Pressure,125
+196,Resting Electrocardiogram,0
+196,Sex,1
+196,St Depression,2.8
+196,St Slope,1
+196,Thalassemia,3
+197,Age,58
+197,Chest Pain Type,0
+197,Cholesterol,270
+197,Disease,0
+197,Exercise Induced Angina,1
+197,Fasting Blood Sugar,0
+197,Max Heart Rate Achieved,111
+197,Num Major Vessels,0
+197,Resting Blood Pressure,150
+197,Resting Electrocardiogram,0
+197,Sex,1
+197,St Depression,0.8
+197,St Slope,2
+197,Thalassemia,3
+198,Age,68
+198,Chest Pain Type,2
+198,Cholesterol,274
+198,Disease,0
+198,Exercise Induced Angina,1
+198,Fasting Blood Sugar,1
+198,Max Heart Rate Achieved,150
+198,Num Major Vessels,0
+198,Resting Blood Pressure,180
+198,Resting Electrocardiogram,0
+198,Sex,1
+198,St Depression,1.6
+198,St Slope,1
+198,Thalassemia,3
+199,Age,62
+199,Chest Pain Type,0
+199,Cholesterol,164
+199,Disease,0
+199,Exercise Induced Angina,0
+199,Fasting Blood Sugar,0
+199,Max Heart Rate Achieved,145
+199,Num Major Vessels,3
+199,Resting Blood Pressure,160
+199,Resting Electrocardiogram,0
+199,Sex,0
+199,St Depression,6.2
+199,St Slope,0
+199,Thalassemia,3
+200,Age,52
+200,Chest Pain Type,0
+200,Cholesterol,255
+200,Disease,0
+200,Exercise Induced Angina,1
+200,Fasting Blood Sugar,0
+200,Max Heart Rate Achieved,161
+200,Num Major Vessels,1
+200,Resting Blood Pressure,128
+200,Resting Electrocardiogram,1
+200,Sex,1
+200,St Depression,0
+200,St Slope,2
+200,Thalassemia,3
+201,Age,59
+201,Chest Pain Type,0
+201,Cholesterol,239
+201,Disease,0
+201,Exercise Induced Angina,1
+201,Fasting Blood Sugar,0
+201,Max Heart Rate Achieved,142
+201,Num Major Vessels,1
+201,Resting Blood Pressure,110
+201,Resting Electrocardiogram,0
+201,Sex,1
+201,St Depression,1.2
+201,St Slope,1
+201,Thalassemia,3
+202,Age,60
+202,Chest Pain Type,0
+202,Cholesterol,258
+202,Disease,0
+202,Exercise Induced Angina,0
+202,Fasting Blood Sugar,0
+202,Max Heart Rate Achieved,157
+202,Num Major Vessels,2
+202,Resting Blood Pressure,150
+202,Resting Electrocardiogram,0
+202,Sex,0
+202,St Depression,2.6
+202,St Slope,1
+202,Thalassemia,3
+203,Age,49
+203,Chest Pain Type,2
+203,Cholesterol,188
+203,Disease,0
+203,Exercise Induced Angina,0
+203,Fasting Blood Sugar,0
+203,Max Heart Rate Achieved,139
+203,Num Major Vessels,3
+203,Resting Blood Pressure,120
+203,Resting Electrocardiogram,1
+203,Sex,1
+203,St Depression,2
+203,St Slope,1
+203,Thalassemia,3
+204,Age,59
+204,Chest Pain Type,0
+204,Cholesterol,177
+204,Disease,0
+204,Exercise Induced Angina,1
+204,Fasting Blood Sugar,0
+204,Max Heart Rate Achieved,162
+204,Num Major Vessels,1
+204,Resting Blood Pressure,140
+204,Resting Electrocardiogram,1
+204,Sex,1
+204,St Depression,0
+204,St Slope,2
+204,Thalassemia,3
+205,Age,57
+205,Chest Pain Type,2
+205,Cholesterol,229
+205,Disease,0
+205,Exercise Induced Angina,0
+205,Fasting Blood Sugar,0
+205,Max Heart Rate Achieved,150
+205,Num Major Vessels,1
+205,Resting Blood Pressure,128
+205,Resting Electrocardiogram,0
+205,Sex,1
+205,St Depression,0.4
+205,St Slope,1
+205,Thalassemia,3
+206,Age,61
+206,Chest Pain Type,0
+206,Cholesterol,260
+206,Disease,0
+206,Exercise Induced Angina,1
+206,Fasting Blood Sugar,0
+206,Max Heart Rate Achieved,140
+206,Num Major Vessels,1
+206,Resting Blood Pressure,120
+206,Resting Electrocardiogram,1
+206,Sex,1
+206,St Depression,3.6
+206,St Slope,1
+206,Thalassemia,3
+207,Age,39
+207,Chest Pain Type,0
+207,Cholesterol,219
+207,Disease,0
+207,Exercise Induced Angina,0
+207,Fasting Blood Sugar,0
+207,Max Heart Rate Achieved,140
+207,Num Major Vessels,0
+207,Resting Blood Pressure,118
+207,Resting Electrocardiogram,1
+207,Sex,1
+207,St Depression,1.2
+207,St Slope,1
+207,Thalassemia,3
+208,Age,61
+208,Chest Pain Type,0
+208,Cholesterol,307
+208,Disease,0
+208,Exercise Induced Angina,1
+208,Fasting Blood Sugar,0
+208,Max Heart Rate Achieved,146
+208,Num Major Vessels,0
+208,Resting Blood Pressure,145
+208,Resting Electrocardiogram,0
+208,Sex,0
+208,St Depression,1
+208,St Slope,1
+208,Thalassemia,3
+209,Age,56
+209,Chest Pain Type,0
+209,Cholesterol,249
+209,Disease,0
+209,Exercise Induced Angina,1
+209,Fasting Blood Sugar,1
+209,Max Heart Rate Achieved,144
+209,Num Major Vessels,1
+209,Resting Blood Pressure,125
+209,Resting Electrocardiogram,0
+209,Sex,1
+209,St Depression,1.2
+209,St Slope,1
+209,Thalassemia,2
+210,Age,43
+210,Chest Pain Type,0
+210,Cholesterol,341
+210,Disease,0
+210,Exercise Induced Angina,1
+210,Fasting Blood Sugar,1
+210,Max Heart Rate Achieved,136
+210,Num Major Vessels,0
+210,Resting Blood Pressure,132
+210,Resting Electrocardiogram,0
+210,Sex,0
+210,St Depression,3
+210,St Slope,1
+210,Thalassemia,3
+211,Age,62
+211,Chest Pain Type,2
+211,Cholesterol,263
+211,Disease,0
+211,Exercise Induced Angina,0
+211,Fasting Blood Sugar,0
+211,Max Heart Rate Achieved,97
+211,Num Major Vessels,1
+211,Resting Blood Pressure,130
+211,Resting Electrocardiogram,1
+211,Sex,0
+211,St Depression,1.2
+211,St Slope,1
+211,Thalassemia,3
+212,Age,63
+212,Chest Pain Type,0
+212,Cholesterol,330
+212,Disease,0
+212,Exercise Induced Angina,1
+212,Fasting Blood Sugar,1
+212,Max Heart Rate Achieved,132
+212,Num Major Vessels,3
+212,Resting Blood Pressure,130
+212,Resting Electrocardiogram,0
+212,Sex,1
+212,St Depression,1.8
+212,St Slope,2
+212,Thalassemia,3
+213,Age,65
+213,Chest Pain Type,0
+213,Cholesterol,254
+213,Disease,0
+213,Exercise Induced Angina,0
+213,Fasting Blood Sugar,0
+213,Max Heart Rate Achieved,127
+213,Num Major Vessels,1
+213,Resting Blood Pressure,135
+213,Resting Electrocardiogram,0
+213,Sex,1
+213,St Depression,2.8
+213,St Slope,1
+213,Thalassemia,3
+214,Age,48
+214,Chest Pain Type,0
+214,Cholesterol,256
+214,Disease,0
+214,Exercise Induced Angina,1
+214,Fasting Blood Sugar,1
+214,Max Heart Rate Achieved,150
+214,Num Major Vessels,2
+214,Resting Blood Pressure,130
+214,Resting Electrocardiogram,0
+214,Sex,1
+214,St Depression,0
+214,St Slope,2
+214,Thalassemia,3
+215,Age,63
+215,Chest Pain Type,0
+215,Cholesterol,407
+215,Disease,0
+215,Exercise Induced Angina,0
+215,Fasting Blood Sugar,0
+215,Max Heart Rate Achieved,154
+215,Num Major Vessels,3
+215,Resting Blood Pressure,150
+215,Resting Electrocardiogram,0
+215,Sex,0
+215,St Depression,4
+215,St Slope,1
+215,Thalassemia,3
+216,Age,55
+216,Chest Pain Type,0
+216,Cholesterol,217
+216,Disease,0
+216,Exercise Induced Angina,1
+216,Fasting Blood Sugar,0
+216,Max Heart Rate Achieved,111
+216,Num Major Vessels,0
+216,Resting Blood Pressure,140
+216,Resting Electrocardiogram,1
+216,Sex,1
+216,St Depression,5.6
+216,St Slope,0
+216,Thalassemia,3
+217,Age,65
+217,Chest Pain Type,3
+217,Cholesterol,282
+217,Disease,0
+217,Exercise Induced Angina,0
+217,Fasting Blood Sugar,1
+217,Max Heart Rate Achieved,174
+217,Num Major Vessels,1
+217,Resting Blood Pressure,138
+217,Resting Electrocardiogram,0
+217,Sex,1
+217,St Depression,1.4
+217,St Slope,1
+217,Thalassemia,2
+218,Age,56
+218,Chest Pain Type,0
+218,Cholesterol,288
+218,Disease,0
+218,Exercise Induced Angina,1
+218,Fasting Blood Sugar,1
+218,Max Heart Rate Achieved,133
+218,Num Major Vessels,2
+218,Resting Blood Pressure,200
+218,Resting Electrocardiogram,0
+218,Sex,0
+218,St Depression,4
+218,St Slope,0
+218,Thalassemia,3
+219,Age,54
+219,Chest Pain Type,0
+219,Cholesterol,239
+219,Disease,0
+219,Exercise Induced Angina,1
+219,Fasting Blood Sugar,0
+219,Max Heart Rate Achieved,126
+219,Num Major Vessels,1
+219,Resting Blood Pressure,110
+219,Resting Electrocardiogram,1
+219,Sex,1
+219,St Depression,2.8
+219,St Slope,1
+219,Thalassemia,3
+220,Age,70
+220,Chest Pain Type,0
+220,Cholesterol,174
+220,Disease,0
+220,Exercise Induced Angina,1
+220,Fasting Blood Sugar,0
+220,Max Heart Rate Achieved,125
+220,Num Major Vessels,0
+220,Resting Blood Pressure,145
+220,Resting Electrocardiogram,1
+220,Sex,1
+220,St Depression,2.6
+220,St Slope,0
+220,Thalassemia,3
+221,Age,62
+221,Chest Pain Type,1
+221,Cholesterol,281
+221,Disease,0
+221,Exercise Induced Angina,0
+221,Fasting Blood Sugar,0
+221,Max Heart Rate Achieved,103
+221,Num Major Vessels,1
+221,Resting Blood Pressure,120
+221,Resting Electrocardiogram,0
+221,Sex,1
+221,St Depression,1.4
+221,St Slope,1
+221,Thalassemia,3
+222,Age,35
+222,Chest Pain Type,0
+222,Cholesterol,198
+222,Disease,0
+222,Exercise Induced Angina,1
+222,Fasting Blood Sugar,0
+222,Max Heart Rate Achieved,130
+222,Num Major Vessels,0
+222,Resting Blood Pressure,120
+222,Resting Electrocardiogram,1
+222,Sex,1
+222,St Depression,1.6
+222,St Slope,1
+222,Thalassemia,3
+223,Age,59
+223,Chest Pain Type,3
+223,Cholesterol,288
+223,Disease,0
+223,Exercise Induced Angina,0
+223,Fasting Blood Sugar,0
+223,Max Heart Rate Achieved,159
+223,Num Major Vessels,0
+223,Resting Blood Pressure,170
+223,Resting Electrocardiogram,0
+223,Sex,1
+223,St Depression,0.2
+223,St Slope,1
+223,Thalassemia,3
+224,Age,64
+224,Chest Pain Type,2
+224,Cholesterol,309
+224,Disease,0
+224,Exercise Induced Angina,1
+224,Fasting Blood Sugar,0
+224,Max Heart Rate Achieved,131
+224,Num Major Vessels,0
+224,Resting Blood Pressure,125
+224,Resting Electrocardiogram,1
+224,Sex,1
+224,St Depression,1.8
+224,St Slope,1
+224,Thalassemia,3
+225,Age,47
+225,Chest Pain Type,2
+225,Cholesterol,243
+225,Disease,0
+225,Exercise Induced Angina,0
+225,Fasting Blood Sugar,0
+225,Max Heart Rate Achieved,152
+225,Num Major Vessels,0
+225,Resting Blood Pressure,108
+225,Resting Electrocardiogram,1
+225,Sex,1
+225,St Depression,0
+225,St Slope,2
+225,Thalassemia,2
+226,Age,57
+226,Chest Pain Type,0
+226,Cholesterol,289
+226,Disease,0
+226,Exercise Induced Angina,0
+226,Fasting Blood Sugar,1
+226,Max Heart Rate Achieved,124
+226,Num Major Vessels,3
+226,Resting Blood Pressure,165
+226,Resting Electrocardiogram,0
+226,Sex,1
+226,St Depression,1
+226,St Slope,1
+226,Thalassemia,3
+227,Age,55
+227,Chest Pain Type,0
+227,Cholesterol,289
+227,Disease,0
+227,Exercise Induced Angina,1
+227,Fasting Blood Sugar,0
+227,Max Heart Rate Achieved,145
+227,Num Major Vessels,1
+227,Resting Blood Pressure,160
+227,Resting Electrocardiogram,0
+227,Sex,1
+227,St Depression,0.8
+227,St Slope,1
+227,Thalassemia,3
+228,Age,64
+228,Chest Pain Type,0
+228,Cholesterol,246
+228,Disease,0
+228,Exercise Induced Angina,1
+228,Fasting Blood Sugar,0
+228,Max Heart Rate Achieved,96
+228,Num Major Vessels,1
+228,Resting Blood Pressure,120
+228,Resting Electrocardiogram,0
+228,Sex,1
+228,St Depression,2.2
+228,St Slope,0
+228,Thalassemia,2
+229,Age,70
+229,Chest Pain Type,0
+229,Cholesterol,322
+229,Disease,0
+229,Exercise Induced Angina,0
+229,Fasting Blood Sugar,0
+229,Max Heart Rate Achieved,109
+229,Num Major Vessels,3
+229,Resting Blood Pressure,130
+229,Resting Electrocardiogram,0
+229,Sex,1
+229,St Depression,2.4
+229,St Slope,1
+229,Thalassemia,2
+230,Age,51
+230,Chest Pain Type,0
+230,Cholesterol,299
+230,Disease,0
+230,Exercise Induced Angina,1
+230,Fasting Blood Sugar,0
+230,Max Heart Rate Achieved,173
+230,Num Major Vessels,0
+230,Resting Blood Pressure,140
+230,Resting Electrocardiogram,1
+230,Sex,1
+230,St Depression,1.6
+230,St Slope,2
+230,Thalassemia,3
+231,Age,58
+231,Chest Pain Type,0
+231,Cholesterol,300
+231,Disease,0
+231,Exercise Induced Angina,0
+231,Fasting Blood Sugar,0
+231,Max Heart Rate Achieved,171
+231,Num Major Vessels,2
+231,Resting Blood Pressure,125
+231,Resting Electrocardiogram,0
+231,Sex,1
+231,St Depression,0
+231,St Slope,2
+231,Thalassemia,3
+232,Age,60
+232,Chest Pain Type,0
+232,Cholesterol,293
+232,Disease,0
+232,Exercise Induced Angina,0
+232,Fasting Blood Sugar,0
+232,Max Heart Rate Achieved,170
+232,Num Major Vessels,2
+232,Resting Blood Pressure,140
+232,Resting Electrocardiogram,0
+232,Sex,1
+232,St Depression,1.2
+232,St Slope,1
+232,Thalassemia,3
+233,Age,77
+233,Chest Pain Type,0
+233,Cholesterol,304
+233,Disease,0
+233,Exercise Induced Angina,1
+233,Fasting Blood Sugar,0
+233,Max Heart Rate Achieved,162
+233,Num Major Vessels,3
+233,Resting Blood Pressure,125
+233,Resting Electrocardiogram,0
+233,Sex,1
+233,St Depression,0
+233,St Slope,2
+233,Thalassemia,2
+234,Age,35
+234,Chest Pain Type,0
+234,Cholesterol,282
+234,Disease,0
+234,Exercise Induced Angina,1
+234,Fasting Blood Sugar,0
+234,Max Heart Rate Achieved,156
+234,Num Major Vessels,0
+234,Resting Blood Pressure,126
+234,Resting Electrocardiogram,0
+234,Sex,1
+234,St Depression,0
+234,St Slope,2
+234,Thalassemia,3
+235,Age,70
+235,Chest Pain Type,2
+235,Cholesterol,269
+235,Disease,0
+235,Exercise Induced Angina,1
+235,Fasting Blood Sugar,0
+235,Max Heart Rate Achieved,112
+235,Num Major Vessels,1
+235,Resting Blood Pressure,160
+235,Resting Electrocardiogram,1
+235,Sex,1
+235,St Depression,2.9
+235,St Slope,1
+235,Thalassemia,3
+236,Age,59
+236,Chest Pain Type,0
+236,Cholesterol,249
+236,Disease,0
+236,Exercise Induced Angina,1
+236,Fasting Blood Sugar,0
+236,Max Heart Rate Achieved,143
+236,Num Major Vessels,0
+236,Resting Blood Pressure,174
+236,Resting Electrocardiogram,1
+236,Sex,0
+236,St Depression,0
+236,St Slope,1
+236,Thalassemia,2
+237,Age,64
+237,Chest Pain Type,0
+237,Cholesterol,212
+237,Disease,0
+237,Exercise Induced Angina,0
+237,Fasting Blood Sugar,0
+237,Max Heart Rate Achieved,132
+237,Num Major Vessels,2
+237,Resting Blood Pressure,145
+237,Resting Electrocardiogram,0
+237,Sex,1
+237,St Depression,2
+237,St Slope,1
+237,Thalassemia,1
+238,Age,57
+238,Chest Pain Type,0
+238,Cholesterol,274
+238,Disease,0
+238,Exercise Induced Angina,1
+238,Fasting Blood Sugar,0
+238,Max Heart Rate Achieved,88
+238,Num Major Vessels,1
+238,Resting Blood Pressure,152
+238,Resting Electrocardiogram,1
+238,Sex,1
+238,St Depression,1.2
+238,St Slope,1
+238,Thalassemia,3
+239,Age,56
+239,Chest Pain Type,0
+239,Cholesterol,184
+239,Disease,0
+239,Exercise Induced Angina,1
+239,Fasting Blood Sugar,0
+239,Max Heart Rate Achieved,105
+239,Num Major Vessels,1
+239,Resting Blood Pressure,132
+239,Resting Electrocardiogram,0
+239,Sex,1
+239,St Depression,2.1
+239,St Slope,1
+239,Thalassemia,1
+240,Age,48
+240,Chest Pain Type,0
+240,Cholesterol,274
+240,Disease,0
+240,Exercise Induced Angina,0
+240,Fasting Blood Sugar,0
+240,Max Heart Rate Achieved,166
+240,Num Major Vessels,0
+240,Resting Blood Pressure,124
+240,Resting Electrocardiogram,0
+240,Sex,1
+240,St Depression,0.5
+240,St Slope,1
+240,Thalassemia,3
+241,Age,56
+241,Chest Pain Type,0
+241,Cholesterol,409
+241,Disease,0
+241,Exercise Induced Angina,1
+241,Fasting Blood Sugar,0
+241,Max Heart Rate Achieved,150
+241,Num Major Vessels,2
+241,Resting Blood Pressure,134
+241,Resting Electrocardiogram,0
+241,Sex,0
+241,St Depression,1.9
+241,St Slope,1
+241,Thalassemia,3
+242,Age,66
+242,Chest Pain Type,1
+242,Cholesterol,246
+242,Disease,0
+242,Exercise Induced Angina,1
+242,Fasting Blood Sugar,0
+242,Max Heart Rate Achieved,120
+242,Num Major Vessels,3
+242,Resting Blood Pressure,160
+242,Resting Electrocardiogram,1
+242,Sex,1
+242,St Depression,0
+242,St Slope,1
+242,Thalassemia,1
+243,Age,54
+243,Chest Pain Type,1
+243,Cholesterol,283
+243,Disease,0
+243,Exercise Induced Angina,0
+243,Fasting Blood Sugar,0
+243,Max Heart Rate Achieved,195
+243,Num Major Vessels,1
+243,Resting Blood Pressure,192
+243,Resting Electrocardiogram,0
+243,Sex,1
+243,St Depression,0
+243,St Slope,2
+243,Thalassemia,3
+244,Age,69
+244,Chest Pain Type,2
+244,Cholesterol,254
+244,Disease,0
+244,Exercise Induced Angina,0
+244,Fasting Blood Sugar,0
+244,Max Heart Rate Achieved,146
+244,Num Major Vessels,3
+244,Resting Blood Pressure,140
+244,Resting Electrocardiogram,0
+244,Sex,1
+244,St Depression,2
+244,St Slope,1
+244,Thalassemia,3
+245,Age,51
+245,Chest Pain Type,0
+245,Cholesterol,298
+245,Disease,0
+245,Exercise Induced Angina,1
+245,Fasting Blood Sugar,0
+245,Max Heart Rate Achieved,122
+245,Num Major Vessels,3
+245,Resting Blood Pressure,140
+245,Resting Electrocardiogram,1
+245,Sex,1
+245,St Depression,4.2
+245,St Slope,1
+245,Thalassemia,3
+246,Age,62
+246,Chest Pain Type,0
+246,Cholesterol,294
+246,Disease,0
+246,Exercise Induced Angina,0
+246,Fasting Blood Sugar,1
+246,Max Heart Rate Achieved,106
+246,Num Major Vessels,3
+246,Resting Blood Pressure,138
+246,Resting Electrocardiogram,1
+246,Sex,0
+246,St Depression,1.9
+246,St Slope,1
+246,Thalassemia,2
+247,Age,67
+247,Chest Pain Type,0
+247,Cholesterol,299
+247,Disease,0
+247,Exercise Induced Angina,1
+247,Fasting Blood Sugar,0
+247,Max Heart Rate Achieved,125
+247,Num Major Vessels,2
+247,Resting Blood Pressure,100
+247,Resting Electrocardiogram,0
+247,Sex,1
+247,St Depression,0.9
+247,St Slope,1
+247,Thalassemia,2
+248,Age,59
+248,Chest Pain Type,3
+248,Cholesterol,273
+248,Disease,0
+248,Exercise Induced Angina,0
+248,Fasting Blood Sugar,0
+248,Max Heart Rate Achieved,125
+248,Num Major Vessels,0
+248,Resting Blood Pressure,160
+248,Resting Electrocardiogram,0
+248,Sex,1
+248,St Depression,0
+248,St Slope,2
+248,Thalassemia,2
+249,Age,45
+249,Chest Pain Type,0
+249,Cholesterol,309
+249,Disease,0
+249,Exercise Induced Angina,1
+249,Fasting Blood Sugar,0
+249,Max Heart Rate Achieved,147
+249,Num Major Vessels,3
+249,Resting Blood Pressure,142
+249,Resting Electrocardiogram,0
+249,Sex,1
+249,St Depression,0
+249,St Slope,1
+249,Thalassemia,3
+250,Age,58
+250,Chest Pain Type,0
+250,Cholesterol,259
+250,Disease,0
+250,Exercise Induced Angina,1
+250,Fasting Blood Sugar,0
+250,Max Heart Rate Achieved,130
+250,Num Major Vessels,2
+250,Resting Blood Pressure,128
+250,Resting Electrocardiogram,0
+250,Sex,1
+250,St Depression,3
+250,St Slope,1
+250,Thalassemia,3
+251,Age,50
+251,Chest Pain Type,0
+251,Cholesterol,200
+251,Disease,0
+251,Exercise Induced Angina,1
+251,Fasting Blood Sugar,0
+251,Max Heart Rate Achieved,126
+251,Num Major Vessels,0
+251,Resting Blood Pressure,144
+251,Resting Electrocardiogram,0
+251,Sex,1
+251,St Depression,0.9
+251,St Slope,1
+251,Thalassemia,3
+252,Age,62
+252,Chest Pain Type,0
+252,Cholesterol,244
+252,Disease,0
+252,Exercise Induced Angina,1
+252,Fasting Blood Sugar,0
+252,Max Heart Rate Achieved,154
+252,Num Major Vessels,0
+252,Resting Blood Pressure,150
+252,Resting Electrocardiogram,1
+252,Sex,0
+252,St Depression,1.4
+252,St Slope,1
+252,Thalassemia,2
+253,Age,38
+253,Chest Pain Type,3
+253,Cholesterol,231
+253,Disease,0
+253,Exercise Induced Angina,1
+253,Fasting Blood Sugar,0
+253,Max Heart Rate Achieved,182
+253,Num Major Vessels,0
+253,Resting Blood Pressure,120
+253,Resting Electrocardiogram,1
+253,Sex,1
+253,St Depression,3.8
+253,St Slope,1
+253,Thalassemia,3
+254,Age,66
+254,Chest Pain Type,0
+254,Cholesterol,228
+254,Disease,0
+254,Exercise Induced Angina,1
+254,Fasting Blood Sugar,1
+254,Max Heart Rate Achieved,165
+254,Num Major Vessels,2
+254,Resting Blood Pressure,178
+254,Resting Electrocardiogram,1
+254,Sex,0
+254,St Depression,1
+254,St Slope,1
+254,Thalassemia,3
+255,Age,52
+255,Chest Pain Type,0
+255,Cholesterol,230
+255,Disease,0
+255,Exercise Induced Angina,0
+255,Fasting Blood Sugar,0
+255,Max Heart Rate Achieved,160
+255,Num Major Vessels,1
+255,Resting Blood Pressure,112
+255,Resting Electrocardiogram,1
+255,Sex,1
+255,St Depression,0
+255,St Slope,2
+255,Thalassemia,2
+256,Age,53
+256,Chest Pain Type,0
+256,Cholesterol,282
+256,Disease,0
+256,Exercise Induced Angina,1
+256,Fasting Blood Sugar,0
+256,Max Heart Rate Achieved,95
+256,Num Major Vessels,2
+256,Resting Blood Pressure,123
+256,Resting Electrocardiogram,1
+256,Sex,1
+256,St Depression,2
+256,St Slope,1
+256,Thalassemia,3
+257,Age,63
+257,Chest Pain Type,0
+257,Cholesterol,269
+257,Disease,0
+257,Exercise Induced Angina,1
+257,Fasting Blood Sugar,0
+257,Max Heart Rate Achieved,169
+257,Num Major Vessels,2
+257,Resting Blood Pressure,108
+257,Resting Electrocardiogram,1
+257,Sex,0
+257,St Depression,1.8
+257,St Slope,1
+257,Thalassemia,2
+258,Age,54
+258,Chest Pain Type,0
+258,Cholesterol,206
+258,Disease,0
+258,Exercise Induced Angina,1
+258,Fasting Blood Sugar,0
+258,Max Heart Rate Achieved,108
+258,Num Major Vessels,1
+258,Resting Blood Pressure,110
+258,Resting Electrocardiogram,0
+258,Sex,1
+258,St Depression,0
+258,St Slope,1
+258,Thalassemia,2
+259,Age,66
+259,Chest Pain Type,0
+259,Cholesterol,212
+259,Disease,0
+259,Exercise Induced Angina,1
+259,Fasting Blood Sugar,0
+259,Max Heart Rate Achieved,132
+259,Num Major Vessels,1
+259,Resting Blood Pressure,112
+259,Resting Electrocardiogram,0
+259,Sex,1
+259,St Depression,0.1
+259,St Slope,2
+259,Thalassemia,2
+260,Age,55
+260,Chest Pain Type,0
+260,Cholesterol,327
+260,Disease,0
+260,Exercise Induced Angina,1
+260,Fasting Blood Sugar,0
+260,Max Heart Rate Achieved,117
+260,Num Major Vessels,0
+260,Resting Blood Pressure,180
+260,Resting Electrocardiogram,2
+260,Sex,0
+260,St Depression,3.4
+260,St Slope,1
+260,Thalassemia,2
+261,Age,49
+261,Chest Pain Type,2
+261,Cholesterol,149
+261,Disease,0
+261,Exercise Induced Angina,0
+261,Fasting Blood Sugar,0
+261,Max Heart Rate Achieved,126
+261,Num Major Vessels,3
+261,Resting Blood Pressure,118
+261,Resting Electrocardiogram,0
+261,Sex,1
+261,St Depression,0.8
+261,St Slope,2
+261,Thalassemia,2
+262,Age,54
+262,Chest Pain Type,0
+262,Cholesterol,286
+262,Disease,0
+262,Exercise Induced Angina,1
+262,Fasting Blood Sugar,0
+262,Max Heart Rate Achieved,116
+262,Num Major Vessels,2
+262,Resting Blood Pressure,122
+262,Resting Electrocardiogram,0
+262,Sex,1
+262,St Depression,3.2
+262,St Slope,1
+262,Thalassemia,2
+263,Age,56
+263,Chest Pain Type,0
+263,Cholesterol,283
+263,Disease,0
+263,Exercise Induced Angina,1
+263,Fasting Blood Sugar,1
+263,Max Heart Rate Achieved,103
+263,Num Major Vessels,0
+263,Resting Blood Pressure,130
+263,Resting Electrocardiogram,0
+263,Sex,1
+263,St Depression,1.6
+263,St Slope,0
+263,Thalassemia,3
+264,Age,46
+264,Chest Pain Type,0
+264,Cholesterol,249
+264,Disease,0
+264,Exercise Induced Angina,0
+264,Fasting Blood Sugar,0
+264,Max Heart Rate Achieved,144
+264,Num Major Vessels,0
+264,Resting Blood Pressure,120
+264,Resting Electrocardiogram,0
+264,Sex,1
+264,St Depression,0.8
+264,St Slope,2
+264,Thalassemia,3
+265,Age,61
+265,Chest Pain Type,3
+265,Cholesterol,234
+265,Disease,0
+265,Exercise Induced Angina,0
+265,Fasting Blood Sugar,0
+265,Max Heart Rate Achieved,145
+265,Num Major Vessels,2
+265,Resting Blood Pressure,134
+265,Resting Electrocardiogram,1
+265,Sex,1
+265,St Depression,2.6
+265,St Slope,1
+265,Thalassemia,2
+266,Age,67
+266,Chest Pain Type,0
+266,Cholesterol,237
+266,Disease,0
+266,Exercise Induced Angina,0
+266,Fasting Blood Sugar,0
+266,Max Heart Rate Achieved,71
+266,Num Major Vessels,0
+266,Resting Blood Pressure,120
+266,Resting Electrocardiogram,1
+266,Sex,1
+266,St Depression,1
+266,St Slope,1
+266,Thalassemia,2
+267,Age,58
+267,Chest Pain Type,0
+267,Cholesterol,234
+267,Disease,0
+267,Exercise Induced Angina,0
+267,Fasting Blood Sugar,0
+267,Max Heart Rate Achieved,156
+267,Num Major Vessels,1
+267,Resting Blood Pressure,100
+267,Resting Electrocardiogram,1
+267,Sex,1
+267,St Depression,0.1
+267,St Slope,2
+267,Thalassemia,3
+268,Age,47
+268,Chest Pain Type,0
+268,Cholesterol,275
+268,Disease,0
+268,Exercise Induced Angina,1
+268,Fasting Blood Sugar,0
+268,Max Heart Rate Achieved,118
+268,Num Major Vessels,1
+268,Resting Blood Pressure,110
+268,Resting Electrocardiogram,0
+268,Sex,1
+268,St Depression,1
+268,St Slope,1
+268,Thalassemia,2
+269,Age,52
+269,Chest Pain Type,0
+269,Cholesterol,212
+269,Disease,0
+269,Exercise Induced Angina,0
+269,Fasting Blood Sugar,0
+269,Max Heart Rate Achieved,168
+269,Num Major Vessels,2
+269,Resting Blood Pressure,125
+269,Resting Electrocardiogram,1
+269,Sex,1
+269,St Depression,1
+269,St Slope,2
+269,Thalassemia,3
+270,Age,58
+270,Chest Pain Type,0
+270,Cholesterol,218
+270,Disease,0
+270,Exercise Induced Angina,0
+270,Fasting Blood Sugar,0
+270,Max Heart Rate Achieved,105
+270,Num Major Vessels,1
+270,Resting Blood Pressure,146
+270,Resting Electrocardiogram,1
+270,Sex,1
+270,St Depression,2
+270,St Slope,1
+270,Thalassemia,3
+271,Age,57
+271,Chest Pain Type,1
+271,Cholesterol,261
+271,Disease,0
+271,Exercise Induced Angina,0
+271,Fasting Blood Sugar,0
+271,Max Heart Rate Achieved,141
+271,Num Major Vessels,0
+271,Resting Blood Pressure,124
+271,Resting Electrocardiogram,1
+271,Sex,1
+271,St Depression,0.3
+271,St Slope,2
+271,Thalassemia,3
+272,Age,58
+272,Chest Pain Type,1
+272,Cholesterol,319
+272,Disease,0
+272,Exercise Induced Angina,0
+272,Fasting Blood Sugar,1
+272,Max Heart Rate Achieved,152
+272,Num Major Vessels,2
+272,Resting Blood Pressure,136
+272,Resting Electrocardiogram,0
+272,Sex,0
+272,St Depression,0
+272,St Slope,2
+272,Thalassemia,2
+273,Age,61
+273,Chest Pain Type,0
+273,Cholesterol,166
+273,Disease,0
+273,Exercise Induced Angina,1
+273,Fasting Blood Sugar,0
+273,Max Heart Rate Achieved,125
+273,Num Major Vessels,1
+273,Resting Blood Pressure,138
+273,Resting Electrocardiogram,0
+273,Sex,1
+273,St Depression,3.6
+273,St Slope,1
+273,Thalassemia,2
+274,Age,42
+274,Chest Pain Type,0
+274,Cholesterol,315
+274,Disease,0
+274,Exercise Induced Angina,1
+274,Fasting Blood Sugar,0
+274,Max Heart Rate Achieved,125
+274,Num Major Vessels,0
+274,Resting Blood Pressure,136
+274,Resting Electrocardiogram,1
+274,Sex,1
+274,St Depression,1.8
+274,St Slope,1
+274,Thalassemia,1
+275,Age,59
+275,Chest Pain Type,2
+275,Cholesterol,218
+275,Disease,0
+275,Exercise Induced Angina,0
+275,Fasting Blood Sugar,1
+275,Max Heart Rate Achieved,134
+275,Num Major Vessels,1
+275,Resting Blood Pressure,126
+275,Resting Electrocardiogram,1
+275,Sex,1
+275,St Depression,2.2
+275,St Slope,1
+275,Thalassemia,1
+276,Age,40
+276,Chest Pain Type,0
+276,Cholesterol,223
+276,Disease,0
+276,Exercise Induced Angina,0
+276,Fasting Blood Sugar,0
+276,Max Heart Rate Achieved,181
+276,Num Major Vessels,0
+276,Resting Blood Pressure,152
+276,Resting Electrocardiogram,1
+276,Sex,1
+276,St Depression,0
+276,St Slope,2
+276,Thalassemia,3
+277,Age,61
+277,Chest Pain Type,0
+277,Cholesterol,207
+277,Disease,0
+277,Exercise Induced Angina,1
+277,Fasting Blood Sugar,0
+277,Max Heart Rate Achieved,138
+277,Num Major Vessels,1
+277,Resting Blood Pressure,140
+277,Resting Electrocardiogram,0
+277,Sex,1
+277,St Depression,1.9
+277,St Slope,2
+277,Thalassemia,3
+278,Age,46
+278,Chest Pain Type,0
+278,Cholesterol,311
+278,Disease,0
+278,Exercise Induced Angina,1
+278,Fasting Blood Sugar,0
+278,Max Heart Rate Achieved,120
+278,Num Major Vessels,2
+278,Resting Blood Pressure,140
+278,Resting Electrocardiogram,1
+278,Sex,1
+278,St Depression,1.8
+278,St Slope,1
+278,Thalassemia,3
+279,Age,59
+279,Chest Pain Type,3
+279,Cholesterol,204
+279,Disease,0
+279,Exercise Induced Angina,0
+279,Fasting Blood Sugar,0
+279,Max Heart Rate Achieved,162
+279,Num Major Vessels,2
+279,Resting Blood Pressure,134
+279,Resting Electrocardiogram,1
+279,Sex,1
+279,St Depression,0.8
+279,St Slope,2
+279,Thalassemia,2
+280,Age,57
+280,Chest Pain Type,1
+280,Cholesterol,232
+280,Disease,0
+280,Exercise Induced Angina,0
+280,Fasting Blood Sugar,0
+280,Max Heart Rate Achieved,164
+280,Num Major Vessels,1
+280,Resting Blood Pressure,154
+280,Resting Electrocardiogram,0
+280,Sex,1
+280,St Depression,0
+280,St Slope,2
+280,Thalassemia,2
+281,Age,57
+281,Chest Pain Type,0
+281,Cholesterol,335
+281,Disease,0
+281,Exercise Induced Angina,1
+281,Fasting Blood Sugar,0
+281,Max Heart Rate Achieved,143
+281,Num Major Vessels,1
+281,Resting Blood Pressure,110
+281,Resting Electrocardiogram,1
+281,Sex,1
+281,St Depression,3
+281,St Slope,1
+281,Thalassemia,3
+282,Age,55
+282,Chest Pain Type,0
+282,Cholesterol,205
+282,Disease,0
+282,Exercise Induced Angina,1
+282,Fasting Blood Sugar,0
+282,Max Heart Rate Achieved,130
+282,Num Major Vessels,1
+282,Resting Blood Pressure,128
+282,Resting Electrocardiogram,2
+282,Sex,0
+282,St Depression,2
+282,St Slope,1
+282,Thalassemia,3
+283,Age,61
+283,Chest Pain Type,0
+283,Cholesterol,203
+283,Disease,0
+283,Exercise Induced Angina,0
+283,Fasting Blood Sugar,0
+283,Max Heart Rate Achieved,161
+283,Num Major Vessels,1
+283,Resting Blood Pressure,148
+283,Resting Electrocardiogram,1
+283,Sex,1
+283,St Depression,0
+283,St Slope,2
+283,Thalassemia,3
+284,Age,58
+284,Chest Pain Type,0
+284,Cholesterol,318
+284,Disease,0
+284,Exercise Induced Angina,0
+284,Fasting Blood Sugar,0
+284,Max Heart Rate Achieved,140
+284,Num Major Vessels,3
+284,Resting Blood Pressure,114
+284,Resting Electrocardiogram,2
+284,Sex,1
+284,St Depression,4.4
+284,St Slope,0
+284,Thalassemia,1
+285,Age,58
+285,Chest Pain Type,0
+285,Cholesterol,225
+285,Disease,0
+285,Exercise Induced Angina,1
+285,Fasting Blood Sugar,1
+285,Max Heart Rate Achieved,146
+285,Num Major Vessels,2
+285,Resting Blood Pressure,170
+285,Resting Electrocardiogram,0
+285,Sex,0
+285,St Depression,2.8
+285,St Slope,1
+285,Thalassemia,1
+286,Age,67
+286,Chest Pain Type,2
+286,Cholesterol,212
+286,Disease,0
+286,Exercise Induced Angina,0
+286,Fasting Blood Sugar,0
+286,Max Heart Rate Achieved,150
+286,Num Major Vessels,0
+286,Resting Blood Pressure,152
+286,Resting Electrocardiogram,0
+286,Sex,1
+286,St Depression,0.8
+286,St Slope,1
+286,Thalassemia,3
+287,Age,44
+287,Chest Pain Type,0
+287,Cholesterol,169
+287,Disease,0
+287,Exercise Induced Angina,1
+287,Fasting Blood Sugar,0
+287,Max Heart Rate Achieved,144
+287,Num Major Vessels,0
+287,Resting Blood Pressure,120
+287,Resting Electrocardiogram,1
+287,Sex,1
+287,St Depression,2.8
+287,St Slope,0
+287,Thalassemia,1
+288,Age,63
+288,Chest Pain Type,0
+288,Cholesterol,187
+288,Disease,0
+288,Exercise Induced Angina,1
+288,Fasting Blood Sugar,0
+288,Max Heart Rate Achieved,144
+288,Num Major Vessels,2
+288,Resting Blood Pressure,140
+288,Resting Electrocardiogram,0
+288,Sex,1
+288,St Depression,4
+288,St Slope,2
+288,Thalassemia,3
+289,Age,63
+289,Chest Pain Type,0
+289,Cholesterol,197
+289,Disease,0
+289,Exercise Induced Angina,1
+289,Fasting Blood Sugar,0
+289,Max Heart Rate Achieved,136
+289,Num Major Vessels,0
+289,Resting Blood Pressure,124
+289,Resting Electrocardiogram,1
+289,Sex,0
+289,St Depression,0
+289,St Slope,1
+289,Thalassemia,2
+290,Age,59
+290,Chest Pain Type,0
+290,Cholesterol,176
+290,Disease,0
+290,Exercise Induced Angina,0
+290,Fasting Blood Sugar,1
+290,Max Heart Rate Achieved,90
+290,Num Major Vessels,2
+290,Resting Blood Pressure,164
+290,Resting Electrocardiogram,0
+290,Sex,1
+290,St Depression,1
+290,St Slope,1
+290,Thalassemia,1
+291,Age,57
+291,Chest Pain Type,0
+291,Cholesterol,241
+291,Disease,0
+291,Exercise Induced Angina,1
+291,Fasting Blood Sugar,0
+291,Max Heart Rate Achieved,123
+291,Num Major Vessels,0
+291,Resting Blood Pressure,140
+291,Resting Electrocardiogram,1
+291,Sex,0
+291,St Depression,0.2
+291,St Slope,1
+291,Thalassemia,3
+292,Age,45
+292,Chest Pain Type,3
+292,Cholesterol,264
+292,Disease,0
+292,Exercise Induced Angina,0
+292,Fasting Blood Sugar,0
+292,Max Heart Rate Achieved,132
+292,Num Major Vessels,0
+292,Resting Blood Pressure,110
+292,Resting Electrocardiogram,1
+292,Sex,1
+292,St Depression,1.2
+292,St Slope,1
+292,Thalassemia,3
+293,Age,68
+293,Chest Pain Type,0
+293,Cholesterol,193
+293,Disease,0
+293,Exercise Induced Angina,0
+293,Fasting Blood Sugar,1
+293,Max Heart Rate Achieved,141
+293,Num Major Vessels,2
+293,Resting Blood Pressure,144
+293,Resting Electrocardiogram,1
+293,Sex,1
+293,St Depression,3.4
+293,St Slope,1
+293,Thalassemia,3
+294,Age,57
+294,Chest Pain Type,0
+294,Cholesterol,131
+294,Disease,0
+294,Exercise Induced Angina,1
+294,Fasting Blood Sugar,0
+294,Max Heart Rate Achieved,115
+294,Num Major Vessels,1
+294,Resting Blood Pressure,130
+294,Resting Electrocardiogram,1
+294,Sex,1
+294,St Depression,1.2
+294,St Slope,1
+294,Thalassemia,3
+295,Age,57
+295,Chest Pain Type,1
+295,Cholesterol,236
+295,Disease,0
+295,Exercise Induced Angina,0
+295,Fasting Blood Sugar,0
+295,Max Heart Rate Achieved,174
+295,Num Major Vessels,1
+295,Resting Blood Pressure,130
+295,Resting Electrocardiogram,0
+295,Sex,0
+295,St Depression,0
+295,St Slope,1
+295,Thalassemia,2

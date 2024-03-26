@@ -1,0 +1,104 @@
+Dưới đây là giải thích lại ý nghĩa của từng thuộc tính trong bộ dữ liệu khảo sát bệnh nhân, dựa trên thông tin bạn đã cung cấp:
+
+1. **age (tuổi):**
+   - Là tuổi của bệnh nhân, được đo bằng năm.
+
+2. **sex (giới tính):**
+   - 1 = nam
+   - 0 = nữ
+
+3. **cp (loại đau ngực):**
+   - 0: Đau ngực điển hình (typical angina): đau ngực liên quan đến giảm cung cấp máu cho tim.
+   - 1: Đau ngực không điển hình (atypical angina): đau ngực không liên quan đến tim.
+   - 2: Đau ngực không phải do tim (non-anginal pain): thường là co thắt dạ dày (không liên quan đến tim).
+   - 3: Không có triệu chứng đau ngực (asymptomatic): không có dấu hiệu của bệnh.
+
+4. **trestbps (huyết áp nghỉ):**
+   - Là huyết áp nghỉ của bệnh nhân, được đo bằng mm Hg khi nhập viện.
+   - Giá trị trên 130-140 thường là nguyên nhân lo lắng.
+
+5. **chol (cholesterol huyết thanh):**
+   - Là lượng cholesterol trong huyết thanh, được tính bằng mg/dl.
+   - Giá trị trên 200 thường là nguyên nhân lo lắng.
+
+6. **fbs (đường huyết nhanh):**
+   - 1 = đường huyết nhanh > 120 mg/dl (đúng).
+   - 0 = đường huyết nhanh <= 120 mg/dl (sai).
+   - Giá trị '>126' mg/dL là dấu hiệu của bệnh tiểu đường.
+
+7. **restecg (kết quả điện tâm đồ nghỉ):**
+   - 0: Bình thường.
+   - 1: Biến động sóng ST-T (có thể là dấu hiệu của nhịp tim không bình thường).
+   - 2: Có thể hoặc chắc chắn có phì độ thất trái (tăng thể tích tim trái theo tiêu chí của Estes).
+
+8. **thalach (nhịp tim tối đa đạt được):**
+   - Là nhịp tim cao nhất mà bệnh nhân đạt được trong quá trình kiểm tra.
+
+9. **exang (đau ngực do tập thể dục):**
+   - 1 = có
+   - 0 = không
+
+10. **oldpeak (ST depression tạo ra bởi tập thể dục so với nghỉ):**
+    - Đo lường sự giảm độ chệch ST tạo ra bởi tập thể dục so với thời gian nghỉ.
+    - Nhìn vào sự căng trải qua thời gian tập thể dục, với tim không khỏe sẽ trải qua căng càng nhiều.
+
+11. **slope (góc nghiêng của đoạn ST cao nhất):**
+    - 0: Tăng lên (upsloping): tốt hơn với nhịp tim khi tập thể dục (hiếm gặp).
+    - 1: Bằng phẳng (flatsloping): thay đổi tối thiểu (thường là tim khỏe mạnh).
+    - 2: Giảm xuống (downsloping): dấu hiệu của tim không khỏe.
+
+12. **ca (số mạch máu chính (0-3) được nhuộm bằng fluoroscopy):**
+    - Số lượng mạch máu chính được nhuộm bằng fluoroscopy, từ 0 đến 3.
+    - Mạch máu nhuộm được xem như mạch máu đang di chuyển mà không có cục máu đông.
+
+13. **thal (kết quả thử thallium stress):**
+    - 1: Khuyết tật cố định (fixed
+
+ defect): từng có khuyết tật nhưng hiện tại đã ổn định.
+    - 2: Bình thường: không có vấn đề với sự di chuyển của máu.
+    - 3: Khuyết tật có thể đảo ngược (reversible defect): sự di chuyển của máu không bình thường khi tập thể dục.
+
+14. **target (nhãn):**
+    - 0 = không mắc bệnh.
+    - 1 = mắc bệnh tim mạch (dương tính cho bệnh tim mạch).
+
+Chú thích:
+Dưới đây là giải thích chi tiết hơn về các thuộc tính liên quan đến ST, ST-T, số mạch máu chính được nhuộm bằng fluoroscopy, và kết quả thử thallium stress:
+
+1. **ST và ST-T:**
+   - Trong điện tâm đồ (ECG), ST và ST-T là phần của chu kỳ điện tim được theo dõi để đánh giá hoạt động điện của tim.
+   - **ST Segment (Đoạn ST):** Đoạn này bắt đầu từ kết thúc sóng Q và kéo dài đến đầu sóng T. Sự thay đổi của đoạn ST thường được quan sát để đánh giá sự cung cấp máu và khả năng hoạt động của tim.
+   - **ST-T Wave:** Là sóng T kết hợp với đoạn ST. Sự thay đổi của ST-T thường được sử dụng để chẩn đoán các vấn đề về tim, đặc biệt là trong trường hợp có thể xuất hiện những biến động không bình thường.
+
+2. **Số Mạch Máu Chính (0-3) được Nhuộm bằng Fluoroscopy:**
+   - Đây là một ước lượng về số lượng mạch máu chính (các động mạch lớn cung cấp máu đến tim) được nhuộm bằng fluoroscopy.
+   - Fluoroscopy là một phương pháp hình ảnh y khoa sử dụng tia X để theo dõi chuyển động và dòng chảy của chất nhuộm trong các mạch máu.
+   - Số mạch máu nhuộm được thường được xem là một chỉ số của sự di chuyển của máu trong tim. Động mạch nhuộm được đánh giá lành mạnh nếu có nhiều mạch máu được nhuộm.
+
+3. **Kết Quả Thử Thallium Stress:**
+   - Là một phương pháp thử nghiệm thực hiện trong điện tâm đồ để đánh giá cách tim hoạt động khi được đặt trong tình trạng căng thẳng.
+   - **Fixed Defect (Khuyết Tật Cố Định):** Kết quả 1 chỉ ra một khuyết tật đã cố định, nghĩa là có một khu vực trong tim mà không có sự di chuyển của máu và vẫn giữ nguyên tình trạng này sau khi tăng cường tập thể dục.
+   - **Normal (Bình Thường):** Kết quả 2 cho thấy không có vấn đề đặc biệt với sự di chuyển của máu trong tim khi tập thể dục.
+   - **Reversible Defect (Khuyết Tật Có Thể Đảo Ngược):** Kết quả 3 chỉ ra sự di chuyển của máu không bình thường khi tập thể dục, và tình trạng này có thể đảo ngược sau khi tập thể dục được dừng.
+
+Những thông tin này cung cấp hiểu biết sâu sắc hơn về sự hoạt động của tim và các vấn đề tiềm ẩn mà có thể được đánh giá thông qua các kết quả điện tâm đồ và thử thallium stress.
+
+Dưới đây là giải thích chi tiết hơn về các thuộc tính liên quan đến ST, ST-T, số mạch máu chính được nhuộm bằng fluoroscopy, và kết quả thử thallium stress:
+
+1. **ST và ST-T:**
+   - Trong điện tâm đồ (ECG), ST và ST-T là phần của chu kỳ điện tim được theo dõi để đánh giá hoạt động điện của tim.
+   - **ST Segment (Đoạn ST):** Đoạn này bắt đầu từ kết thúc sóng Q và kéo dài đến đầu sóng T. Sự thay đổi của đoạn ST thường được quan sát để đánh giá sự cung cấp máu và khả năng hoạt động của tim.
+   - **ST-T Wave:** Là sóng T kết hợp với đoạn ST. Sự thay đổi của ST-T thường được sử dụng để chẩn đoán các vấn đề về tim, đặc biệt là trong trường hợp có thể xuất hiện những biến động không bình thường.
+
+2. **Số Mạch Máu Chính (0-3) được Nhuộm bằng Fluoroscopy:**
+   - Đây là một ước lượng về số lượng mạch máu chính (các động mạch lớn cung cấp máu đến tim) được nhuộm bằng fluoroscopy.
+   - Fluoroscopy là một phương pháp hình ảnh y khoa sử dụng tia X để theo dõi chuyển động và dòng chảy của chất nhuộm trong các mạch máu.
+   - Số mạch máu nhuộm được thường được xem là một chỉ số của sự di chuyển của máu trong tim. Động mạch nhuộm được đánh giá lành mạnh nếu có nhiều mạch máu được nhuộm.
+
+3. **Kết Quả Thử Thallium Stress:**
+   - Là một phương pháp thử nghiệm thực hiện trong điện tâm đồ để đánh giá cách tim hoạt động khi được đặt trong tình trạng căng thẳng.
+   - **Fixed Defect (Khuyết Tật Cố Định):** Kết quả 1 chỉ ra một khuyết tật đã cố định, nghĩa là có một khu vực trong tim mà không có sự di chuyển của máu và vẫn giữ nguyên tình trạng này sau khi tăng cường tập thể dục.
+   - **Normal (Bình Thường):** Kết quả 2 cho thấy không có vấn đề đặc biệt với sự di chuyển của máu trong tim khi tập thể dục.
+   - **Reversible Defect (Khuyết Tật Có Thể Đảo Ngược):** Kết quả 3 chỉ ra sự di chuyển của máu không bình thường khi tập thể dục, và tình trạng này có thể đảo ngược sau khi tập thể dục được dừng.
+
+Những thông tin này cung cấp hiểu biết sâu sắc hơn về sự hoạt động của tim và các vấn đề tiềm ẩn mà có thể được đánh giá thông qua các kết quả điện tâm đồ và thử thallium stress.
